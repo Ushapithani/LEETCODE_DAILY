@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1408-string-matching-in-an-array](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/1408-string-matching-in-an-array) |
 | [1413-minimum-value-to-get-positive-step-by-step-sum](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/1413-minimum-value-to-get-positive-step-by-step-sum) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/1877-minimize-maximum-pair-sum-in-array) |
+| [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2016-maximum-difference-between-increasing-elements](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/2016-maximum-difference-between-increasing-elements) |
 | [2053-kth-distinct-string-in-an-array](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/2053-kth-distinct-string-in-an-array) |
 | [2085-count-common-words-with-one-occurrence](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/2085-count-common-words-with-one-occurrence) |
@@ -51,4 +52,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/1877-minimize-maximum-pair-sum-in-array) |
+| [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
+## Sliding Window
+|  |
+| ------- |
+| [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 <!---LeetCode Topics End-->
