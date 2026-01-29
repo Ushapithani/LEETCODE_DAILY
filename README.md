@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2190-most-frequent-number-following-key-in-an-array](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/2190-most-frequent-number-following-key-in-an-array) |
 | [2616-minimize-the-maximum-difference-of-pairs](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/2616-minimize-the-maximum-difference-of-pairs) |
 | [2942-find-words-containing-character](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/2942-find-words-containing-character) |
+| [2976-minimum-cost-to-convert-string-i](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/2976-minimum-cost-to-convert-string-i) |
 ## Hash Table
 |  |
 | ------- |
@@ -36,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2085-count-common-words-with-one-occurrence](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/2085-count-common-words-with-one-occurrence) |
 | [2185-counting-words-with-a-given-prefix](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/2185-counting-words-with-a-given-prefix) |
 | [2942-find-words-containing-character](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/2942-find-words-containing-character) |
+| [2976-minimum-cost-to-convert-string-i](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/2976-minimum-cost-to-convert-string-i) |
 ## Counting
 |  |
 | ------- |
@@ -87,4 +89,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2616-minimize-the-maximum-difference-of-pairs](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/2616-minimize-the-maximum-difference-of-pairs) |
+## Graph Theory
+|  |
+| ------- |
+| [2976-minimum-cost-to-convert-string-i](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/2976-minimum-cost-to-convert-string-i) |
+## Shortest Path
+|  |
+| ------- |
+| [2976-minimum-cost-to-convert-string-i](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/2976-minimum-cost-to-convert-string-i) |
 <!---LeetCode Topics End-->
