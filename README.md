@@ -109,4 +109,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
+## Math
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/0292-nim-game) |
+## Brainteaser
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/0292-nim-game) |
+## Game Theory
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/0292-nim-game) |
 <!---LeetCode Topics End-->
