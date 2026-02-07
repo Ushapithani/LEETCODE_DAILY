@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1408-string-matching-in-an-array](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/1408-string-matching-in-an-array) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 | [1773-count-items-matching-a-rule](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/1773-count-items-matching-a-rule) |
+| [1859-sorting-the-sentence](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/1859-sorting-the-sentence) |
 | [2053-kth-distinct-string-in-an-array](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/2053-kth-distinct-string-in-an-array) |
 | [2085-count-common-words-with-one-occurrence](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/2085-count-common-words-with-one-occurrence) |
 | [2185-counting-words-with-a-given-prefix](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/2185-counting-words-with-a-given-prefix) |
@@ -85,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1200-minimum-absolute-difference](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/1200-minimum-absolute-difference) |
 | [1331-rank-transform-of-an-array](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/1331-rank-transform-of-an-array) |
+| [1859-sorting-the-sentence](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/1859-sorting-the-sentence) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
