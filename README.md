@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1331-rank-transform-of-an-array](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/1331-rank-transform-of-an-array) |
 | [1408-string-matching-in-an-array](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/1408-string-matching-in-an-array) |
 | [1413-minimum-value-to-get-positive-step-by-step-sum](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/1413-minimum-value-to-get-positive-step-by-step-sum) |
+| [1748-sum-of-unique-elements](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/1748-sum-of-unique-elements) |
 | [1773-count-items-matching-a-rule](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/1773-count-items-matching-a-rule) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1901-find-a-peak-element-ii](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/1901-find-a-peak-element-ii) |
@@ -55,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0804-unique-morse-code-words](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/0804-unique-morse-code-words) |
 | [0888-fair-candy-swap](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/0888-fair-candy-swap) |
 | [1331-rank-transform-of-an-array](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/1331-rank-transform-of-an-array) |
+| [1748-sum-of-unique-elements](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/1748-sum-of-unique-elements) |
 | [2053-kth-distinct-string-in-an-array](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/2053-kth-distinct-string-in-an-array) |
 | [2085-count-common-words-with-one-occurrence](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/2085-count-common-words-with-one-occurrence) |
 | [2190-most-frequent-number-following-key-in-an-array](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/2190-most-frequent-number-following-key-in-an-array) |
@@ -77,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [1748-sum-of-unique-elements](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/1748-sum-of-unique-elements) |
 | [2053-kth-distinct-string-in-an-array](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/2053-kth-distinct-string-in-an-array) |
 | [2085-count-common-words-with-one-occurrence](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/2085-count-common-words-with-one-occurrence) |
 | [2148-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/2148-count-elements-with-strictly-smaller-and-greater-elements) |
