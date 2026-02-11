@@ -177,6 +177,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1266-minimum-time-visiting-all-points](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/1266-minimum-time-visiting-all-points) |
 | [1512-number-of-good-pairs](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/1512-number-of-good-pairs) |
 | [2894-divisible-and-non-divisible-sums-difference](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/2894-divisible-and-non-divisible-sums-difference) |
+| [3783-mirror-distance-of-an-integer](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/3783-mirror-distance-of-an-integer) |
 ## Brainteaser
 |  |
 | ------- |
