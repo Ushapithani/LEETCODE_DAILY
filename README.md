@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0120-triangle](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/0120-triangle) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
+| [0164-maximum-gap](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/0164-maximum-gap) |
 | [0645-set-mismatch](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/0645-set-mismatch) |
 | [0682-baseball-game](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/0682-baseball-game) |
 | [0697-degree-of-an-array](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/0697-degree-of-an-array) |
@@ -120,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0164-maximum-gap](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/0164-maximum-gap) |
 | [0645-set-mismatch](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/0645-set-mismatch) |
 | [0888-fair-candy-swap](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/0888-fair-candy-swap) |
 | [1200-minimum-absolute-difference](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/1200-minimum-absolute-difference) |
@@ -250,4 +252,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1382-balance-a-binary-search-tree](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/1382-balance-a-binary-search-tree) |
+## Bucket Sort
+|  |
+| ------- |
+| [0164-maximum-gap](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/0164-maximum-gap) |
+## Radix Sort
+|  |
+| ------- |
+| [0164-maximum-gap](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/0164-maximum-gap) |
 <!---LeetCode Topics End-->
