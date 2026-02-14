@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3634-minimum-removals-to-balance-array](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/3634-minimum-removals-to-balance-array) |
 | [3637-trionic-array-i](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/3637-trionic-array-i) |
 | [3668-restore-finishing-order](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/3668-restore-finishing-order) |
+| [3719-longest-balanced-subarray-i](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/3719-longest-balanced-subarray-i) |
 ## Hash Table
 |  |
 | ------- |
@@ -66,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2085-count-common-words-with-one-occurrence](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/2085-count-common-words-with-one-occurrence) |
 | [2190-most-frequent-number-following-key-in-an-array](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/2190-most-frequent-number-following-key-in-an-array) |
 | [3668-restore-finishing-order](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/3668-restore-finishing-order) |
+| [3719-longest-balanced-subarray-i](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/3719-longest-balanced-subarray-i) |
 ## String
 |  |
 | ------- |
@@ -105,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1413-minimum-value-to-get-positive-step-by-step-sum](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/1413-minimum-value-to-get-positive-step-by-step-sum) |
 | [3015-count-the-number-of-houses-at-a-certain-distance-i](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/3015-count-the-number-of-houses-at-a-certain-distance-i) |
+| [3719-longest-balanced-subarray-i](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/3719-longest-balanced-subarray-i) |
 ## Two Pointers
 |  |
 | ------- |
@@ -240,6 +243,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1382-balance-a-binary-search-tree](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/1382-balance-a-binary-search-tree) |
+| [3719-longest-balanced-subarray-i](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/3719-longest-balanced-subarray-i) |
 ## Tree
 |  |
 | ------- |
@@ -264,4 +268,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0164-maximum-gap](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/0164-maximum-gap) |
+## Segment Tree
+|  |
+| ------- |
+| [3719-longest-balanced-subarray-i](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/3719-longest-balanced-subarray-i) |
 <!---LeetCode Topics End-->
