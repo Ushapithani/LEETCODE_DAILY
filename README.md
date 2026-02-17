@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0706-design-hashmap](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/0706-design-hashmap) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0746-min-cost-climbing-stairs](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/0746-min-cost-climbing-stairs) |
+| [0795-number-of-subarrays-with-bounded-maximum](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/0795-number-of-subarrays-with-bounded-maximum) |
 | [0804-unique-morse-code-words](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/0804-unique-morse-code-words) |
 | [0806-number-of-lines-to-write-string](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/0806-number-of-lines-to-write-string) |
 | [0888-fair-candy-swap](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/0888-fair-candy-swap) |
@@ -138,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/0027-remove-element) |
 | [0165-compare-version-numbers](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/0165-compare-version-numbers) |
+| [0795-number-of-subarrays-with-bounded-maximum](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/0795-number-of-subarrays-with-bounded-maximum) |
 | [1721-swapping-nodes-in-a-linked-list](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/1721-swapping-nodes-in-a-linked-list) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 ## Greedy
