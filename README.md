@@ -255,6 +255,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/0067-add-binary) |
+| [0401-binary-watch](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/0401-binary-watch) |
 | [0645-set-mismatch](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/0645-set-mismatch) |
 ## Design
 |  |
@@ -310,4 +311,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/0204-count-primes) |
+## Backtracking
+|  |
+| ------- |
+| [0401-binary-watch](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/0401-binary-watch) |
 <!---LeetCode Topics End-->
