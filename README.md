@@ -112,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0676-implement-magic-dictionary](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/0676-implement-magic-dictionary) |
 | [0696-count-binary-substrings](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/0696-count-binary-substrings) |
 | [0720-longest-word-in-dictionary](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/0720-longest-word-in-dictionary) |
+| [0761-special-binary-string](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/0761-special-binary-string) |
 | [0804-unique-morse-code-words](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/0804-unique-morse-code-words) |
 | [0806-number-of-lines-to-write-string](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/0806-number-of-lines-to-write-string) |
 | [1108-defanging-an-ip-address](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/1108-defanging-an-ip-address) |
@@ -182,6 +183,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0524-longest-word-in-dictionary-through-deleting](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/0524-longest-word-in-dictionary-through-deleting) |
 | [0645-set-mismatch](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/0645-set-mismatch) |
 | [0720-longest-word-in-dictionary](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/0720-longest-word-in-dictionary) |
+| [0761-special-binary-string](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/0761-special-binary-string) |
 | [0888-fair-candy-swap](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/0888-fair-candy-swap) |
 | [1200-minimum-absolute-difference](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/1200-minimum-absolute-difference) |
 | [1268-search-suggestions-system](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/1268-search-suggestions-system) |
@@ -319,6 +321,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Divide and Conquer
 |  |
 | ------- |
+| [0761-special-binary-string](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/0761-special-binary-string) |
 | [1382-balance-a-binary-search-tree](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/1382-balance-a-binary-search-tree) |
 | [3719-longest-balanced-subarray-i](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/3719-longest-balanced-subarray-i) |
 ## Tree
