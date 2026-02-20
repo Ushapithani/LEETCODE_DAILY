@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0806-number-of-lines-to-write-string](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/0806-number-of-lines-to-write-string) |
 | [0888-fair-candy-swap](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/0888-fair-candy-swap) |
 | [0930-binary-subarrays-with-sum](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/0930-binary-subarrays-with-sum) |
+| [0986-interval-list-intersections](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/0986-interval-list-intersections) |
 | [1200-minimum-absolute-difference](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/1200-minimum-absolute-difference) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/1248-count-number-of-nice-subarrays) |
 | [1266-minimum-time-visiting-all-points](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/1266-minimum-time-visiting-all-points) |
@@ -163,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0524-longest-word-in-dictionary-through-deleting](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/0524-longest-word-in-dictionary-through-deleting) |
 | [0696-count-binary-substrings](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/0696-count-binary-substrings) |
 | [0795-number-of-subarrays-with-bounded-maximum](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/0795-number-of-subarrays-with-bounded-maximum) |
+| [0986-interval-list-intersections](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/0986-interval-list-intersections) |
 | [1721-swapping-nodes-in-a-linked-list](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/1721-swapping-nodes-in-a-linked-list) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 ## Greedy
@@ -380,4 +382,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0676-implement-magic-dictionary](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/0676-implement-magic-dictionary) |
 | [0720-longest-word-in-dictionary](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/0720-longest-word-in-dictionary) |
 | [1268-search-suggestions-system](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/1268-search-suggestions-system) |
+## Sweep Line
+|  |
+| ------- |
+| [0986-interval-list-intersections](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/0986-interval-list-intersections) |
 <!---LeetCode Topics End-->
