@@ -104,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0273-integer-to-english-words](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/0273-integer-to-english-words) |
 | [0451-sort-characters-by-frequency](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/0451-sort-characters-by-frequency) |
 | [0482-license-key-formatting](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/0482-license-key-formatting) |
+| [0521-longest-uncommon-subsequence-i](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/0521-longest-uncommon-subsequence-i) |
 | [0522-longest-uncommon-subsequence-ii](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/0522-longest-uncommon-subsequence-ii) |
 | [0648-replace-words](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/0648-replace-words) |
 | [0676-implement-magic-dictionary](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/0676-implement-magic-dictionary) |
