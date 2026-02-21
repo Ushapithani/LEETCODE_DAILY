@@ -4,26 +4,17 @@ class RangeModule:
         self.ranges = []
 
     def addRange(self, left: int, right: int) -> None:
-        newRange = [left, right]
-        result = []
-        inserted = False
+        self.ranges.append([left, right])
+        self.ranges.sort(key=lambda x: x[0])
+        merged = [self.ranges[0]]
 
-        for start, end in self.ranges:
-            if end < newRange[0]:
-                result.append([start, end])
-            elif start > newRange[1]:
-                if not inserted:
-                    result.append(newRange)
-                    inserted = True
-                result.append([start, end])
+        for start, end in self.ranges[1:]:
+            if start <= merged[-1][1]:
+                merged[-1][1] = max(merged[-1][1], end)
             else:
-                newRange[0] = min(newRange[0], start)
-                newRange[1] = max(newRange[1], end)
+                merged.append([start, end])
 
-        if not inserted:
-            result.append(newRange)
-
-        self.ranges = result
+        self.ranges = merged
 
     def queryRange(self, left: int, right: int) -> bool:
         for start, end in self.ranges:
