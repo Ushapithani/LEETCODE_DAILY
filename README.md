@@ -231,6 +231,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
+| [0374-guess-number-higher-or-lower](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/0374-guess-number-higher-or-lower) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0826-most-profit-assigning-work](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/0826-most-profit-assigning-work) |
 | [0888-fair-candy-swap](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/0888-fair-candy-swap) |
@@ -413,4 +414,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0715-range-module](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/0715-range-module) |
+## Interactive
+|  |
+| ------- |
+| [0374-guess-number-higher-or-lower](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/0374-guess-number-higher-or-lower) |
 <!---LeetCode Topics End-->
