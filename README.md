@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0930-binary-subarrays-with-sum](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/0930-binary-subarrays-with-sum) |
 | [0986-interval-list-intersections](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/0986-interval-list-intersections) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/1011-capacity-to-ship-packages-within-d-days) |
+| [1030-matrix-cells-in-distance-order](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/1030-matrix-cells-in-distance-order) |
 | [1037-valid-boomerang](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/1037-valid-boomerang) |
 | [1046-last-stone-weight](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/1046-last-stone-weight) |
 | [1200-minimum-absolute-difference](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/1200-minimum-absolute-difference) |
@@ -210,6 +211,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0761-special-binary-string](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/0761-special-binary-string) |
 | [0826-most-profit-assigning-work](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/0826-most-profit-assigning-work) |
 | [0888-fair-candy-swap](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/0888-fair-candy-swap) |
+| [1030-matrix-cells-in-distance-order](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/1030-matrix-cells-in-distance-order) |
 | [1200-minimum-absolute-difference](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/1200-minimum-absolute-difference) |
 | [1268-search-suggestions-system](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/1268-search-suggestions-system) |
 | [1288-remove-covered-intervals](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/1288-remove-covered-intervals) |
@@ -249,6 +251,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [1030-matrix-cells-in-distance-order](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/1030-matrix-cells-in-distance-order) |
 | [1901-find-a-peak-element-ii](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/1901-find-a-peak-element-ii) |
 ## Dynamic Programming
 |  |
@@ -286,6 +289,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0241-different-ways-to-add-parentheses](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/0241-different-ways-to-add-parentheses) |
 | [0273-integer-to-english-words](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/0273-integer-to-english-words) |
 | [0292-nim-game](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/0292-nim-game) |
+| [1030-matrix-cells-in-distance-order](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/1030-matrix-cells-in-distance-order) |
 | [1037-valid-boomerang](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/1037-valid-boomerang) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/1248-count-number-of-nice-subarrays) |
 | [1266-minimum-time-visiting-all-points](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/1266-minimum-time-visiting-all-points) |
@@ -352,6 +356,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Geometry
 |  |
 | ------- |
+| [1030-matrix-cells-in-distance-order](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/1030-matrix-cells-in-distance-order) |
 | [1037-valid-boomerang](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/1037-valid-boomerang) |
 | [1266-minimum-time-visiting-all-points](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/1266-minimum-time-visiting-all-points) |
 ## Divide and Conquer
