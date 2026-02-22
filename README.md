@@ -64,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2148-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/2148-count-elements-with-strictly-smaller-and-greater-elements) |
 | [2185-counting-words-with-a-given-prefix](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/2185-counting-words-with-a-given-prefix) |
 | [2190-most-frequent-number-following-key-in-an-array](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/2190-most-frequent-number-following-key-in-an-array) |
+| [2226-maximum-candies-allocated-to-k-children](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/2226-maximum-candies-allocated-to-k-children) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/2410-maximum-matching-of-players-with-trainers) |
 | [2616-minimize-the-maximum-difference-of-pairs](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/2616-minimize-the-maximum-difference-of-pairs) |
 | [2942-find-words-containing-character](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/2942-find-words-containing-character) |
@@ -239,6 +240,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0888-fair-candy-swap](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/0888-fair-candy-swap) |
 | [1268-search-suggestions-system](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/1268-search-suggestions-system) |
 | [1901-find-a-peak-element-ii](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/1901-find-a-peak-element-ii) |
+| [2226-maximum-candies-allocated-to-k-children](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/2226-maximum-candies-allocated-to-k-children) |
 | [2616-minimize-the-maximum-difference-of-pairs](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/2616-minimize-the-maximum-difference-of-pairs) |
 ## Matrix
 |  |
