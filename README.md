@@ -266,6 +266,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0069-sqrtx](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/0069-sqrtx) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0374-guess-number-higher-or-lower](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/0374-guess-number-higher-or-lower) |
@@ -315,6 +316,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0060-permutation-sequence](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/0060-permutation-sequence) |
 | [0067-add-binary](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/0067-add-binary) |
+| [0069-sqrtx](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/0069-sqrtx) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0204-count-primes](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/0204-count-primes) |
 | [0241-different-ways-to-add-parentheses](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/0241-different-ways-to-add-parentheses) |
