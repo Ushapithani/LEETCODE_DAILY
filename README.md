@@ -133,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0038-count-and-say](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/0038-count-and-say) |
 | [0049-group-anagrams](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/0049-group-anagrams) |
 | [0067-add-binary](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/0067-add-binary) |
+| [0071-simplify-path](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/0071-simplify-path) |
 | [0097-interleaving-string](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/0097-interleaving-string) |
 | [0125-valid-palindrome](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/0125-valid-palindrome) |
 | [0165-compare-version-numbers](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/0165-compare-version-numbers) |
@@ -384,6 +385,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0071-simplify-path](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/0071-simplify-path) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0394-decode-string](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/0394-decode-string) |
 | [0496-next-greater-element-i](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/0496-next-greater-element-i) |
