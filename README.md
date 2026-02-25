@@ -391,6 +391,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0071-simplify-path](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/0071-simplify-path) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0227-basic-calculator-ii](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/0227-basic-calculator-ii) |
+| [0232-implement-queue-using-stacks](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/0232-implement-queue-using-stacks) |
 | [0394-decode-string](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/0394-decode-string) |
 | [0496-next-greater-element-i](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/0503-next-greater-element-ii) |
@@ -410,6 +411,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Design
 |  |
 | ------- |
+| [0232-implement-queue-using-stacks](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/0232-implement-queue-using-stacks) |
 | [0676-implement-magic-dictionary](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/0676-implement-magic-dictionary) |
 | [0706-design-hashmap](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/0706-design-hashmap) |
 | [0715-range-module](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/0715-range-module) |
@@ -512,4 +514,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0496-next-greater-element-i](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/0503-next-greater-element-ii) |
+## Queue
+|  |
+| ------- |
+| [0232-implement-queue-using-stacks](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/0232-implement-queue-using-stacks) |
 <!---LeetCode Topics End-->
