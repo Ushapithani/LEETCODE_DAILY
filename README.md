@@ -139,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0241-different-ways-to-add-parentheses](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/0241-different-ways-to-add-parentheses) |
 | [0273-integer-to-english-words](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/0273-integer-to-english-words) |
 | [0318-maximum-product-of-word-lengths](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/0318-maximum-product-of-word-lengths) |
+| [0394-decode-string](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/0394-decode-string) |
 | [0451-sort-characters-by-frequency](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/0451-sort-characters-by-frequency) |
 | [0482-license-key-formatting](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/0482-license-key-formatting) |
 | [0521-longest-uncommon-subsequence-i](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/0521-longest-uncommon-subsequence-i) |
@@ -367,6 +368,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0060-permutation-sequence](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/0060-permutation-sequence) |
 | [0241-different-ways-to-add-parentheses](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/0241-different-ways-to-add-parentheses) |
 | [0273-integer-to-english-words](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/0273-integer-to-english-words) |
+| [0394-decode-string](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/0394-decode-string) |
 | [3483-unique-3-digit-even-numbers](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/3483-unique-3-digit-even-numbers) |
 ## Simulation
 |  |
@@ -379,6 +381,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0394-decode-string](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/0394-decode-string) |
 | [0496-next-greater-element-i](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/0503-next-greater-element-ii) |
 | [0682-baseball-game](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/0682-baseball-game) |
