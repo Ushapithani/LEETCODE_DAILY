@@ -303,6 +303,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0097-interleaving-string](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/0097-interleaving-string) |
 | [0120-triangle](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/0120-triangle) |
 | [0241-different-ways-to-add-parentheses](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/0241-different-ways-to-add-parentheses) |
+| [0279-perfect-squares](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/0279-perfect-squares) |
 | [0435-non-overlapping-intervals](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/0435-non-overlapping-intervals) |
 | [0746-min-cost-climbing-stairs](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/0746-min-cost-climbing-stairs) |
 | [0799-champagne-tower](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/0799-champagne-tower) |
@@ -336,6 +337,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0227-basic-calculator-ii](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/0227-basic-calculator-ii) |
 | [0241-different-ways-to-add-parentheses](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/0241-different-ways-to-add-parentheses) |
 | [0273-integer-to-english-words](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/0273-integer-to-english-words) |
+| [0279-perfect-squares](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/0279-perfect-squares) |
 | [0292-nim-game](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/0292-nim-game) |
 | [0976-largest-perimeter-triangle](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/0976-largest-perimeter-triangle) |
 | [1030-matrix-cells-in-distance-order](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/1030-matrix-cells-in-distance-order) |
@@ -359,6 +361,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0102-binary-tree-level-order-traversal](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/0102-binary-tree-level-order-traversal) |
+| [0279-perfect-squares](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/0279-perfect-squares) |
 | [3015-count-the-number-of-houses-at-a-certain-distance-i](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/3015-count-the-number-of-houses-at-a-certain-distance-i) |
 ## Linked List
 |  |
