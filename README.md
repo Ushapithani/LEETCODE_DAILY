@@ -420,6 +420,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0676-implement-magic-dictionary](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/0676-implement-magic-dictionary) |
 | [0706-design-hashmap](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/0706-design-hashmap) |
 | [0715-range-module](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/0715-range-module) |
+| [0933-number-of-recent-calls](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/0933-number-of-recent-calls) |
 ## Hash Function
 |  |
 | ------- |
@@ -524,8 +525,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0232-implement-queue-using-stacks](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/0232-implement-queue-using-stacks) |
+| [0933-number-of-recent-calls](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/0933-number-of-recent-calls) |
 ## Topological Sort
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/0207-course-schedule) |
+## Data Stream
+|  |
+| ------- |
+| [0933-number-of-recent-calls](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/0933-number-of-recent-calls) |
 <!---LeetCode Topics End-->
