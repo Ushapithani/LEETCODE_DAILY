@@ -171,6 +171,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1963-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/1963-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2053-kth-distinct-string-in-an-array](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/2053-kth-distinct-string-in-an-array) |
 | [2085-count-common-words-with-one-occurrence](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/2085-count-common-words-with-one-occurrence) |
+| [2116-check-if-a-parentheses-string-can-be-valid](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/2116-check-if-a-parentheses-string-can-be-valid) |
 | [2131-longest-palindrome-by-concatenating-two-letter-words](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/2131-longest-palindrome-by-concatenating-two-letter-words) |
 | [2185-counting-words-with-a-given-prefix](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/2185-counting-words-with-a-given-prefix) |
 | [2942-find-words-containing-character](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/2942-find-words-containing-character) |
@@ -239,6 +240,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1963-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/1963-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [1968-array-with-elements-not-equal-to-average-of-neighbors](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/1968-array-with-elements-not-equal-to-average-of-neighbors) |
+| [2116-check-if-a-parentheses-string-can-be-valid](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/2116-check-if-a-parentheses-string-can-be-valid) |
 | [2131-longest-palindrome-by-concatenating-two-letter-words](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/2131-longest-palindrome-by-concatenating-two-letter-words) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/2410-maximum-matching-of-players-with-trainers) |
@@ -423,6 +425,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1441-build-an-array-with-stack-operations](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/1441-build-an-array-with-stack-operations) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 | [1963-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/1963-minimum-number-of-swaps-to-make-the-string-balanced) |
+| [2116-check-if-a-parentheses-string-can-be-valid](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/2116-check-if-a-parentheses-string-can-be-valid) |
 ## Bit Manipulation
 |  |
 | ------- |
