@@ -223,6 +223,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0334-increasing-triplet-subsequence](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/0334-increasing-triplet-subsequence) |
+| [0397-integer-replacement](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/0397-integer-replacement) |
 | [0435-non-overlapping-intervals](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/0435-non-overlapping-intervals) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0826-most-profit-assigning-work](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/0826-most-profit-assigning-work) |
@@ -310,6 +311,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0120-triangle](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/0120-triangle) |
 | [0241-different-ways-to-add-parentheses](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/0241-different-ways-to-add-parentheses) |
 | [0279-perfect-squares](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/0279-perfect-squares) |
+| [0397-integer-replacement](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/0397-integer-replacement) |
 | [0435-non-overlapping-intervals](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/0435-non-overlapping-intervals) |
 | [0746-min-cost-climbing-stairs](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/0746-min-cost-climbing-stairs) |
 | [0799-champagne-tower](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/0799-champagne-tower) |
@@ -417,6 +419,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0067-add-binary](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/0067-add-binary) |
 | [0318-maximum-product-of-word-lengths](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/0318-maximum-product-of-word-lengths) |
+| [0397-integer-replacement](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/0397-integer-replacement) |
 | [0401-binary-watch](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/0401-binary-watch) |
 | [0645-set-mismatch](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/0645-set-mismatch) |
 | [1930-unique-length-3-palindromic-subsequences](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/1930-unique-length-3-palindromic-subsequences) |
@@ -504,6 +507,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0241-different-ways-to-add-parentheses](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/0241-different-ways-to-add-parentheses) |
+| [0397-integer-replacement](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/0397-integer-replacement) |
 ## Trie
 |  |
 | ------- |
