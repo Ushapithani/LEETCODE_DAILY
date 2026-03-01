@@ -158,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0804-unique-morse-code-words](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/0804-unique-morse-code-words) |
 | [0806-number-of-lines-to-write-string](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/0806-number-of-lines-to-write-string) |
 | [0844-backspace-string-compare](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/0844-backspace-string-compare) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1108-defanging-an-ip-address](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/1108-defanging-an-ip-address) |
 | [1268-search-suggestions-system](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/1268-search-suggestions-system) |
@@ -227,6 +228,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0435-non-overlapping-intervals](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/0435-non-overlapping-intervals) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0826-most-profit-assigning-work](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/0826-most-profit-assigning-work) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [0976-largest-perimeter-triangle](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/0976-largest-perimeter-triangle) |
 | [1005-maximize-sum-of-array-after-k-negations](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/1005-maximize-sum-of-array-after-k-negations) |
 | [1382-balance-a-binary-search-tree](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/1382-balance-a-binary-search-tree) |
@@ -411,6 +413,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0503-next-greater-element-ii](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/0503-next-greater-element-ii) |
 | [0682-baseball-game](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/0682-baseball-game) |
 | [0844-backspace-string-compare](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/0844-backspace-string-compare) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1441-build-an-array-with-stack-operations](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/1441-build-an-array-with-stack-operations) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/1653-minimum-deletions-to-make-string-balanced) |
