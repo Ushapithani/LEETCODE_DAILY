@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/0057-insert-interval) |
+| [0063-unique-paths-ii](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/0063-unique-paths-ii) |
 | [0079-word-search](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/0079-word-search) |
 | [0120-triangle](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/0120-triangle) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/0150-evaluate-reverse-polish-notation) |
@@ -316,6 +317,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0063-unique-paths-ii](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/0063-unique-paths-ii) |
 | [0079-word-search](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/0079-word-search) |
 | [0200-number-of-islands](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/0200-number-of-islands) |
 | [0695-max-area-of-island](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/0695-max-area-of-island) |
@@ -325,6 +327,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0063-unique-paths-ii](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/0063-unique-paths-ii) |
 | [0097-interleaving-string](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/0097-interleaving-string) |
 | [0120-triangle](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/0120-triangle) |
 | [0241-different-ways-to-add-parentheses](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/0241-different-ways-to-add-parentheses) |
