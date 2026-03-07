@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0057-insert-interval](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/0057-insert-interval) |
 | [0063-unique-paths-ii](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/0064-minimum-path-sum) |
+| [0074-search-a-2d-matrix](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/0074-search-a-2d-matrix) |
 | [0079-word-search](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/0079-word-search) |
 | [0120-triangle](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/0120-triangle) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/0150-evaluate-reverse-polish-notation) |
@@ -304,6 +305,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/0069-sqrtx) |
+| [0074-search-a-2d-matrix](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/0074-search-a-2d-matrix) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0374-guess-number-higher-or-lower](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/0374-guess-number-higher-or-lower) |
@@ -321,6 +323,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0063-unique-paths-ii](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/0064-minimum-path-sum) |
+| [0074-search-a-2d-matrix](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/0074-search-a-2d-matrix) |
 | [0079-word-search](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/0079-word-search) |
 | [0200-number-of-islands](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/0200-number-of-islands) |
 | [0695-max-area-of-island](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/0695-max-area-of-island) |
