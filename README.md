@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0074-search-a-2d-matrix](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/0074-search-a-2d-matrix) |
 | [0079-word-search](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/0079-word-search) |
 | [0120-triangle](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/0120-triangle) |
+| [0139-word-break](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/0139-word-break) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
@@ -111,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0041-first-missing-positive](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/0041-first-missing-positive) |
 | [0049-group-anagrams](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/0049-group-anagrams) |
 | [0133-clone-graph](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/0133-clone-graph) |
+| [0139-word-break](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/0139-word-break) |
 | [0202-happy-number](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/0202-happy-number) |
 | [0347-top-k-frequent-elements](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/0347-top-k-frequent-elements) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/0442-find-all-duplicates-in-an-array) |
@@ -155,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0079-word-search](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/0079-word-search) |
 | [0097-interleaving-string](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/0097-interleaving-string) |
 | [0125-valid-palindrome](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/0125-valid-palindrome) |
+| [0139-word-break](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/0139-word-break) |
 | [0165-compare-version-numbers](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/0165-compare-version-numbers) |
 | [0227-basic-calculator-ii](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/0227-basic-calculator-ii) |
 | [0241-different-ways-to-add-parentheses](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/0241-different-ways-to-add-parentheses) |
@@ -352,6 +355,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0064-minimum-path-sum](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/0064-minimum-path-sum) |
 | [0097-interleaving-string](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/0097-interleaving-string) |
 | [0120-triangle](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/0120-triangle) |
+| [0139-word-break](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/0139-word-break) |
 | [0241-different-ways-to-add-parentheses](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/0241-different-ways-to-add-parentheses) |
 | [0279-perfect-squares](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/0279-perfect-squares) |
 | [0397-integer-replacement](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/0397-integer-replacement) |
@@ -581,11 +585,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Memoization
 |  |
 | ------- |
+| [0139-word-break](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/0139-word-break) |
 | [0241-different-ways-to-add-parentheses](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/0241-different-ways-to-add-parentheses) |
 | [0397-integer-replacement](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/0397-integer-replacement) |
 ## Trie
 |  |
 | ------- |
+| [0139-word-break](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/0139-word-break) |
 | [0648-replace-words](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/0648-replace-words) |
 | [0676-implement-magic-dictionary](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/0676-implement-magic-dictionary) |
 | [0720-longest-word-in-dictionary](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/0720-longest-word-in-dictionary) |
