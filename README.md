@@ -156,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/0049-group-anagrams) |
 | [0067-add-binary](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/0067-add-binary) |
 | [0071-simplify-path](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/0071-simplify-path) |
+| [0072-edit-distance](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/0072-edit-distance) |
 | [0079-word-search](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/0079-word-search) |
 | [0093-restore-ip-addresses](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/0093-restore-ip-addresses) |
 | [0097-interleaving-string](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/0097-interleaving-string) |
@@ -358,6 +359,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0063-unique-paths-ii](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/0064-minimum-path-sum) |
+| [0072-edit-distance](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/0072-edit-distance) |
 | [0097-interleaving-string](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/0097-interleaving-string) |
 | [0120-triangle](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/0120-triangle) |
 | [0139-word-break](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/0139-word-break) |
