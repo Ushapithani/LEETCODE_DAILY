@@ -100,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2942-find-words-containing-character](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/2942-find-words-containing-character) |
 | [2976-minimum-cost-to-convert-string-i](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/2976-minimum-cost-to-convert-string-i) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
+| [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
 | [3379-transformed-array](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/3379-transformed-array) |
 | [3483-unique-3-digit-even-numbers](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/3483-unique-3-digit-even-numbers) |
 | [3627-maximum-median-sum-of-subsequences-of-size-3](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/3627-maximum-median-sum-of-subsequences-of-size-3) |
@@ -235,6 +236,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1413-minimum-value-to-get-positive-step-by-step-sum](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/1413-minimum-value-to-get-positive-step-by-step-sum) |
 | [1930-unique-length-3-palindromic-subsequences](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/1930-unique-length-3-palindromic-subsequences) |
 | [3015-count-the-number-of-houses-at-a-certain-distance-i](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/3015-count-the-number-of-houses-at-a-certain-distance-i) |
+| [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
 | [3719-longest-balanced-subarray-i](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/3719-longest-balanced-subarray-i) |
 ## Two Pointers
 |  |
@@ -358,6 +360,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1727-largest-submatrix-with-rearrangements](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [1901-find-a-peak-element-ii](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/1901-find-a-peak-element-ii) |
 | [2435-paths-in-matrix-whose-sum-is-divisible-by-k](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/2435-paths-in-matrix-whose-sum-is-divisible-by-k) |
+| [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
 ## Dynamic Programming
 |  |
 | ------- |
