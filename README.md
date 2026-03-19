@@ -75,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1436-destination-city](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/1436-destination-city) |
 | [1441-build-an-array-with-stack-operations](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/1441-build-an-array-with-stack-operations) |
 | [1512-number-of-good-pairs](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/1512-number-of-good-pairs) |
+| [1590-make-sum-divisible-by-p](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/1590-make-sum-divisible-by-p) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [1748-sum-of-unique-elements](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/1748-sum-of-unique-elements) |
 | [1773-count-items-matching-a-rule](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/1773-count-items-matching-a-rule) |
@@ -137,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1331-rank-transform-of-an-array](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/1331-rank-transform-of-an-array) |
 | [1436-destination-city](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/1436-destination-city) |
 | [1512-number-of-good-pairs](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/1512-number-of-good-pairs) |
+| [1590-make-sum-divisible-by-p](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/1590-make-sum-divisible-by-p) |
 | [1748-sum-of-unique-elements](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/1748-sum-of-unique-elements) |
 | [1930-unique-length-3-palindromic-subsequences](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/1930-unique-length-3-palindromic-subsequences) |
 | [1980-find-unique-binary-string](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/1980-find-unique-binary-string) |
@@ -234,6 +236,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0930-binary-subarrays-with-sum](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/0930-binary-subarrays-with-sum) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/1248-count-number-of-nice-subarrays) |
 | [1413-minimum-value-to-get-positive-step-by-step-sum](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/1413-minimum-value-to-get-positive-step-by-step-sum) |
+| [1590-make-sum-divisible-by-p](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/1590-make-sum-divisible-by-p) |
 | [1930-unique-length-3-palindromic-subsequences](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/1930-unique-length-3-palindromic-subsequences) |
 | [3015-count-the-number-of-houses-at-a-certain-distance-i](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/3015-count-the-number-of-houses-at-a-certain-distance-i) |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
