@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0875-koko-eating-bananas](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/0875-koko-eating-bananas) |
 | [0888-fair-candy-swap](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/0888-fair-candy-swap) |
 | [0930-binary-subarrays-with-sum](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/0930-binary-subarrays-with-sum) |
+| [0974-subarray-sums-divisible-by-k](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/0974-subarray-sums-divisible-by-k) |
 | [0976-largest-perimeter-triangle](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/0976-largest-perimeter-triangle) |
 | [0986-interval-list-intersections](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/0986-interval-list-intersections) |
 | [1005-maximize-sum-of-array-after-k-negations](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/1005-maximize-sum-of-array-after-k-negations) |
@@ -134,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0804-unique-morse-code-words](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/0804-unique-morse-code-words) |
 | [0888-fair-candy-swap](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/0888-fair-candy-swap) |
 | [0930-binary-subarrays-with-sum](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/0930-binary-subarrays-with-sum) |
+| [0974-subarray-sums-divisible-by-k](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/1248-count-number-of-nice-subarrays) |
 | [1331-rank-transform-of-an-array](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/1331-rank-transform-of-an-array) |
 | [1436-destination-city](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/1436-destination-city) |
@@ -234,6 +236,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0930-binary-subarrays-with-sum](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/0930-binary-subarrays-with-sum) |
+| [0974-subarray-sums-divisible-by-k](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/1248-count-number-of-nice-subarrays) |
 | [1413-minimum-value-to-get-positive-step-by-step-sum](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/1413-minimum-value-to-get-positive-step-by-step-sum) |
 | [1590-make-sum-divisible-by-p](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/1590-make-sum-divisible-by-p) |
