@@ -662,4 +662,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0695-max-area-of-island](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/0695-max-area-of-island) |
 | [0785-is-graph-bipartite](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/0785-is-graph-bipartite) |
 | [1971-find-if-path-exists-in-graph](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/1971-find-if-path-exists-in-graph) |
+## Database
+|  |
+| ------- |
+| [0175-combine-two-tables](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/0175-combine-two-tables) |
 <!---LeetCode Topics End-->
