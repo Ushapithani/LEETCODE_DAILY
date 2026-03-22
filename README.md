@@ -565,6 +565,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0102-binary-tree-level-order-traversal](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/0102-binary-tree-level-order-traversal) |
 | [0112-path-sum](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/0112-path-sum) |
+| [0543-diameter-of-binary-tree](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/0543-diameter-of-binary-tree) |
 | [1376-time-needed-to-inform-all-employees](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/1376-time-needed-to-inform-all-employees) |
 | [1382-balance-a-binary-search-tree](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/1382-balance-a-binary-search-tree) |
 ## Depth-First Search
@@ -576,6 +577,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/0210-course-schedule-ii) |
+| [0543-diameter-of-binary-tree](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/0543-diameter-of-binary-tree) |
 | [0676-implement-magic-dictionary](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/0676-implement-magic-dictionary) |
 | [0695-max-area-of-island](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/0733-flood-fill) |
@@ -592,6 +594,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0102-binary-tree-level-order-traversal](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/0102-binary-tree-level-order-traversal) |
 | [0112-path-sum](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/0112-path-sum) |
+| [0543-diameter-of-binary-tree](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/0543-diameter-of-binary-tree) |
 | [1382-balance-a-binary-search-tree](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/1382-balance-a-binary-search-tree) |
 ## Bucket Sort
 |  |
