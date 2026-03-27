@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/0347-top-k-frequent-elements) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0435-non-overlapping-intervals](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/0435-non-overlapping-intervals) |
+| [0436-find-right-interval](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/0436-find-right-interval) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
@@ -313,6 +314,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/0347-top-k-frequent-elements) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0435-non-overlapping-intervals](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/0435-non-overlapping-intervals) |
+| [0436-find-right-interval](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/0436-find-right-interval) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0451-sort-characters-by-frequency](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/0451-sort-characters-by-frequency) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
@@ -361,6 +363,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0374-guess-number-higher-or-lower](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/0374-guess-number-higher-or-lower) |
+| [0436-find-right-interval](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/0436-find-right-interval) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0826-most-profit-assigning-work](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/0826-most-profit-assigning-work) |
 | [0875-koko-eating-bananas](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/0875-koko-eating-bananas) |
