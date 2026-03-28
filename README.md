@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0164-maximum-gap](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/0164-maximum-gap) |
 | [0200-number-of-islands](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/0200-number-of-islands) |
 | [0204-count-primes](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/0204-count-primes) |
+| [0313-super-ugly-number](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/0313-super-ugly-number) |
 | [0318-maximum-product-of-word-lengths](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/0318-maximum-product-of-word-lengths) |
 | [0334-increasing-triplet-subsequence](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/0334-increasing-triplet-subsequence) |
 | [0347-top-k-frequent-elements](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/0347-top-k-frequent-elements) |
@@ -409,6 +410,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0241-different-ways-to-add-parentheses](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/0241-different-ways-to-add-parentheses) |
 | [0264-ugly-number-ii](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/0264-ugly-number-ii) |
 | [0279-perfect-squares](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/0279-perfect-squares) |
+| [0313-super-ugly-number](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/0313-super-ugly-number) |
 | [0397-integer-replacement](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/0397-integer-replacement) |
 | [0435-non-overlapping-intervals](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/0435-non-overlapping-intervals) |
 | [0746-min-cost-climbing-stairs](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/0746-min-cost-climbing-stairs) |
@@ -456,6 +458,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0273-integer-to-english-words](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/0273-integer-to-english-words) |
 | [0279-perfect-squares](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/0279-perfect-squares) |
 | [0292-nim-game](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/0292-nim-game) |
+| [0313-super-ugly-number](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/0313-super-ugly-number) |
 | [0976-largest-perimeter-triangle](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/0976-largest-perimeter-triangle) |
 | [1030-matrix-cells-in-distance-order](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/1030-matrix-cells-in-distance-order) |
 | [1037-valid-boomerang](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/1037-valid-boomerang) |
