@@ -118,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2616-minimize-the-maximum-difference-of-pairs](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/2616-minimize-the-maximum-difference-of-pairs) |
 | [2707-extra-characters-in-a-string](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/2707-extra-characters-in-a-string) |
 | [2744-find-maximum-number-of-string-pairs](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/2744-find-maximum-number-of-string-pairs) |
+| [2748-number-of-beautiful-pairs](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/2748-number-of-beautiful-pairs) |
 | [2942-find-words-containing-character](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/2942-find-words-containing-character) |
 | [2976-minimum-cost-to-convert-string-i](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/2976-minimum-cost-to-convert-string-i) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
@@ -185,6 +186,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2418-sort-the-people](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/2418-sort-the-people) |
 | [2707-extra-characters-in-a-string](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/2707-extra-characters-in-a-string) |
 | [2744-find-maximum-number-of-string-pairs](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/2744-find-maximum-number-of-string-pairs) |
+| [2748-number-of-beautiful-pairs](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/2748-number-of-beautiful-pairs) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
 | [3483-unique-3-digit-even-numbers](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/3483-unique-3-digit-even-numbers) |
@@ -287,6 +289,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2190-most-frequent-number-following-key-in-an-array](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/2190-most-frequent-number-following-key-in-an-array) |
 | [2248-intersection-of-multiple-arrays](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/2248-intersection-of-multiple-arrays) |
 | [2384-largest-palindromic-number](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/2384-largest-palindromic-number) |
+| [2748-number-of-beautiful-pairs](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/2748-number-of-beautiful-pairs) |
 | [2833-furthest-point-from-origin](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/2833-furthest-point-from-origin) |
 | [3713-longest-balanced-substring-i](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/3713-longest-balanced-substring-i) |
 ## String Matching
@@ -529,6 +532,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [1512-number-of-good-pairs](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/1512-number-of-good-pairs) |
 | [2169-count-operations-to-obtain-zero](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/2169-count-operations-to-obtain-zero) |
+| [2748-number-of-beautiful-pairs](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/2748-number-of-beautiful-pairs) |
 | [2894-divisible-and-non-divisible-sums-difference](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/2894-divisible-and-non-divisible-sums-difference) |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
 | [3627-maximum-median-sum-of-subsequences-of-size-3](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/3627-maximum-median-sum-of-subsequences-of-size-3) |
@@ -711,6 +715,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/0204-count-primes) |
+| [2748-number-of-beautiful-pairs](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/2748-number-of-beautiful-pairs) |
 ## Backtracking
 |  |
 | ------- |
