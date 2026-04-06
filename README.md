@@ -111,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2190-most-frequent-number-following-key-in-an-array](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/2190-most-frequent-number-following-key-in-an-array) |
 | [2226-maximum-candies-allocated-to-k-children](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/2226-maximum-candies-allocated-to-k-children) |
 | [2248-intersection-of-multiple-arrays](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/2248-intersection-of-multiple-arrays) |
+| [2255-count-prefixes-of-a-given-string](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/2255-count-prefixes-of-a-given-string) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/2410-maximum-matching-of-players-with-trainers) |
 | [2418-sort-the-people](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/2418-sort-the-people) |
 | [2435-paths-in-matrix-whose-sum-is-divisible-by-k](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/2435-paths-in-matrix-whose-sum-is-divisible-by-k) |
@@ -251,6 +252,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2131-longest-palindrome-by-concatenating-two-letter-words](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/2131-longest-palindrome-by-concatenating-two-letter-words) |
 | [2185-counting-words-with-a-given-prefix](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/2185-counting-words-with-a-given-prefix) |
 | [2186-minimum-number-of-steps-to-make-two-strings-anagram-ii](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/2186-minimum-number-of-steps-to-make-two-strings-anagram-ii) |
+| [2255-count-prefixes-of-a-given-string](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/2255-count-prefixes-of-a-given-string) |
 | [2278-percentage-of-letter-in-string](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/2278-percentage-of-letter-in-string) |
 | [2384-largest-palindromic-number](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/2384-largest-palindromic-number) |
 | [2418-sort-the-people](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/2418-sort-the-people) |
