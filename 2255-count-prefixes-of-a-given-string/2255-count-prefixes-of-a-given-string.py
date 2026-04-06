@@ -1,4 +1,8 @@
 class Solution:
     def countPrefixes(self, words: List[str], s: str) -> int:
-        return sum(s.startswith(w)for w in words)
+        count = 0 
+        for w in words:
+            if s.startswith(w):
+                count+=1
+        return count 
         
