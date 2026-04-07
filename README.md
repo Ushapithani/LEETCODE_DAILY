@@ -508,6 +508,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/0002-add-two-numbers) |
 | [0029-divide-two-integers](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/0029-divide-two-integers) |
 | [0060-permutation-sequence](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/0060-permutation-sequence) |
 | [0067-add-binary](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/0067-add-binary) |
@@ -565,6 +566,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/0021-merge-two-sorted-lists) |
 | [0024-swap-nodes-in-pairs](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/0024-swap-nodes-in-pairs) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
@@ -574,6 +576,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/0021-merge-two-sorted-lists) |
 | [0024-swap-nodes-in-pairs](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/0024-swap-nodes-in-pairs) |
 | [0060-permutation-sequence](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/0060-permutation-sequence) |
