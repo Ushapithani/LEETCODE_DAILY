@@ -88,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1313-decompress-run-length-encoded-list](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/1313-decompress-run-length-encoded-list) |
 | [1331-rank-transform-of-an-array](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/1331-rank-transform-of-an-array) |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
+| [1389-create-target-array-in-the-given-order](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/1389-create-target-array-in-the-given-order) |
 | [1403-minimum-subsequence-in-non-increasing-order](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/1403-minimum-subsequence-in-non-increasing-order) |
 | [1408-string-matching-in-an-array](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/1408-string-matching-in-an-array) |
 | [1413-minimum-value-to-get-positive-step-by-step-sum](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/1413-minimum-value-to-get-positive-step-by-step-sum) |
@@ -626,6 +627,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0867-transpose-matrix](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/0867-transpose-matrix) |
 | [0874-walking-robot-simulation](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/0874-walking-robot-simulation) |
 | [1260-shift-2d-grid](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/1260-shift-2d-grid) |
+| [1389-create-target-array-in-the-given-order](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/1389-create-target-array-in-the-given-order) |
 | [1441-build-an-array-with-stack-operations](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/1441-build-an-array-with-stack-operations) |
 | [2169-count-operations-to-obtain-zero](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/2169-count-operations-to-obtain-zero) |
 | [2744-find-maximum-number-of-string-pairs](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/2744-find-maximum-number-of-string-pairs) |
