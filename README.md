@@ -85,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1266-minimum-time-visiting-all-points](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/1266-minimum-time-visiting-all-points) |
 | [1268-search-suggestions-system](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/1268-search-suggestions-system) |
 | [1288-remove-covered-intervals](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/1288-remove-covered-intervals) |
+| [1313-decompress-run-length-encoded-list](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/1313-decompress-run-length-encoded-list) |
 | [1331-rank-transform-of-an-array](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/1331-rank-transform-of-an-array) |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 | [1403-minimum-subsequence-in-non-increasing-order](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/1403-minimum-subsequence-in-non-increasing-order) |
