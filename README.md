@@ -104,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1582-special-positions-in-a-binary-matrix](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/1582-special-positions-in-a-binary-matrix) |
 | [1590-make-sum-divisible-by-p](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/1590-make-sum-divisible-by-p) |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
+| [1608-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/1608-special-array-with-x-elements-greater-than-or-equal-x) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/1636-sort-array-by-increasing-frequency) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [1748-sum-of-unique-elements](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/1748-sum-of-unique-elements) |
@@ -427,6 +428,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1460-make-two-arrays-equal-by-reversing-subarrays](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/1460-make-two-arrays-equal-by-reversing-subarrays) |
 | [1491-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/1491-average-salary-excluding-the-minimum-and-maximum-salary) |
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
+| [1608-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/1608-special-array-with-x-elements-greater-than-or-equal-x) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/1636-sort-array-by-increasing-frequency) |
 | [1657-determine-if-two-strings-are-close](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/1657-determine-if-two-strings-are-close) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/1727-largest-submatrix-with-rearrangements) |
@@ -470,6 +472,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1268-search-suggestions-system](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/1268-search-suggestions-system) |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
+| [1608-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/1608-special-array-with-x-elements-greater-than-or-equal-x) |
 | [1901-find-a-peak-element-ii](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/1901-find-a-peak-element-ii) |
 | [2226-maximum-candies-allocated-to-k-children](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/2226-maximum-candies-allocated-to-k-children) |
 | [2616-minimize-the-maximum-difference-of-pairs](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/2616-minimize-the-maximum-difference-of-pairs) |
