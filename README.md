@@ -101,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1491-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/1491-average-salary-excluding-the-minimum-and-maximum-salary) |
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
 | [1512-number-of-good-pairs](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/1512-number-of-good-pairs) |
+| [1582-special-positions-in-a-binary-matrix](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/1582-special-positions-in-a-binary-matrix) |
 | [1590-make-sum-divisible-by-p](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/1590-make-sum-divisible-by-p) |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/1636-sort-array-by-increasing-frequency) |
@@ -487,6 +488,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1030-matrix-cells-in-distance-order](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/1030-matrix-cells-in-distance-order) |
 | [1260-shift-2d-grid](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/1260-shift-2d-grid) |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
+| [1582-special-positions-in-a-binary-matrix](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/1582-special-positions-in-a-binary-matrix) |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
