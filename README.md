@@ -145,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
 | [3379-transformed-array](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/3379-transformed-array) |
 | [3483-unique-3-digit-even-numbers](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/3483-unique-3-digit-even-numbers) |
+| [3488-closest-equal-element-queries](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/3488-closest-equal-element-queries) |
 | [3627-maximum-median-sum-of-subsequences-of-size-3](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/3627-maximum-median-sum-of-subsequences-of-size-3) |
 | [3634-minimum-removals-to-balance-array](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/3634-minimum-removals-to-balance-array) |
 | [3637-trionic-array-i](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/3637-trionic-array-i) |
@@ -215,6 +216,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
 | [3483-unique-3-digit-even-numbers](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/3483-unique-3-digit-even-numbers) |
+| [3488-closest-equal-element-queries](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/3488-closest-equal-element-queries) |
 | [3668-restore-finishing-order](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/3668-restore-finishing-order) |
 | [3713-longest-balanced-substring-i](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/3713-longest-balanced-substring-i) |
 | [3719-longest-balanced-subarray-i](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/3719-longest-balanced-subarray-i) |
@@ -479,6 +481,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1901-find-a-peak-element-ii](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/1901-find-a-peak-element-ii) |
 | [2226-maximum-candies-allocated-to-k-children](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/2226-maximum-candies-allocated-to-k-children) |
 | [2616-minimize-the-maximum-difference-of-pairs](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/2616-minimize-the-maximum-difference-of-pairs) |
+| [3488-closest-equal-element-queries](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/3488-closest-equal-element-queries) |
 ## Matrix
 |  |
 | ------- |
