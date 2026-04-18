@@ -183,6 +183,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0706-design-hashmap](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/0706-design-hashmap) |
 | [0720-longest-word-in-dictionary](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/0720-longest-word-in-dictionary) |
 | [0748-shortest-completing-word](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/0748-shortest-completing-word) |
+| [0771-jewels-and-stones](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/0771-jewels-and-stones) |
 | [0804-unique-morse-code-words](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/0804-unique-morse-code-words) |
 | [0874-walking-robot-simulation](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/0874-walking-robot-simulation) |
 | [0888-fair-candy-swap](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/0888-fair-candy-swap) |
@@ -260,6 +261,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0720-longest-word-in-dictionary](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/0720-longest-word-in-dictionary) |
 | [0748-shortest-completing-word](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/0748-shortest-completing-word) |
 | [0761-special-binary-string](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/0761-special-binary-string) |
+| [0771-jewels-and-stones](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/0771-jewels-and-stones) |
 | [0804-unique-morse-code-words](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/0804-unique-morse-code-words) |
 | [0806-number-of-lines-to-write-string](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/0806-number-of-lines-to-write-string) |
 | [0844-backspace-string-compare](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/0844-backspace-string-compare) |
