@@ -111,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1629-slowest-key](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/1629-slowest-key) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/1636-sort-array-by-increasing-frequency) |
 | [1640-check-array-formation-through-concatenation](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/1640-check-array-formation-through-concatenation) |
+| [1662-check-if-two-string-arrays-are-equivalent](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [1748-sum-of-unique-elements](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/1748-sum-of-unique-elements) |
 | [1769-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/1769-minimum-number-of-operations-to-move-all-balls-to-each-box) |
@@ -291,6 +292,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1629-slowest-key](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/1629-slowest-key) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 | [1657-determine-if-two-strings-are-close](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/1657-determine-if-two-strings-are-close) |
+| [1662-check-if-two-string-arrays-are-equivalent](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1758-minimum-changes-to-make-alternating-binary-string](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/1758-minimum-changes-to-make-alternating-binary-string) |
 | [1769-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/1769-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [1773-count-items-matching-a-rule](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/1773-count-items-matching-a-rule) |
