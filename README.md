@@ -296,6 +296,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1370-increasing-decreasing-string](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/1370-increasing-decreasing-string) |
 | [1408-string-matching-in-an-array](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/1408-string-matching-in-an-array) |
 | [1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
+| [1422-maximum-score-after-splitting-a-string](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/1422-maximum-score-after-splitting-a-string) |
 | [1436-destination-city](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/1436-destination-city) |
 | [1455-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/1455-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 | [1629-slowest-key](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/1629-slowest-key) |
@@ -371,6 +372,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0974-subarray-sums-divisible-by-k](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/1248-count-number-of-nice-subarrays) |
 | [1413-minimum-value-to-get-positive-step-by-step-sum](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/1413-minimum-value-to-get-positive-step-by-step-sum) |
+| [1422-maximum-score-after-splitting-a-string](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/1422-maximum-score-after-splitting-a-string) |
 | [1590-make-sum-divisible-by-p](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/1590-make-sum-divisible-by-p) |
 | [1769-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/1769-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [1930-unique-length-3-palindromic-subsequences](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/1930-unique-length-3-palindromic-subsequences) |
