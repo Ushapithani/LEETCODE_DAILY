@@ -283,6 +283,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0925-long-pressed-name](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/0925-long-pressed-name) |
 | [0929-unique-email-addresses](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/0929-unique-email-addresses) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
+| [1071-greatest-common-divisor-of-strings](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1108-defanging-an-ip-address](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/1108-defanging-an-ip-address) |
 | [1154-day-of-the-year](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/1154-day-of-the-year) |
 | [1189-maximum-number-of-balloons](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/1189-maximum-number-of-balloons) |
@@ -620,6 +621,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0976-largest-perimeter-triangle](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/0976-largest-perimeter-triangle) |
 | [1030-matrix-cells-in-distance-order](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/1030-matrix-cells-in-distance-order) |
 | [1037-valid-boomerang](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/1037-valid-boomerang) |
+| [1071-greatest-common-divisor-of-strings](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1154-day-of-the-year](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/1154-day-of-the-year) |
 | [1185-day-of-the-week](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/1185-day-of-the-week) |
 | [1217-minimum-cost-to-move-chips-to-the-same-position](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/1217-minimum-cost-to-move-chips-to-the-same-position) |
