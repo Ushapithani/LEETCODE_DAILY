@@ -141,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2418-sort-the-people](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/2418-sort-the-people) |
 | [2435-paths-in-matrix-whose-sum-is-divisible-by-k](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/2435-paths-in-matrix-whose-sum-is-divisible-by-k) |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/2452-words-within-two-edits-of-dictionary) |
+| [2496-maximum-value-of-a-string-in-an-array](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/2496-maximum-value-of-a-string-in-an-array) |
 | [2615-sum-of-distances](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/2615-sum-of-distances) |
 | [2616-minimize-the-maximum-difference-of-pairs](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/2616-minimize-the-maximum-difference-of-pairs) |
 | [2707-extra-characters-in-a-string](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/2707-extra-characters-in-a-string) |
@@ -332,6 +333,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2384-largest-palindromic-number](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/2384-largest-palindromic-number) |
 | [2418-sort-the-people](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/2418-sort-the-people) |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/2452-words-within-two-edits-of-dictionary) |
+| [2496-maximum-value-of-a-string-in-an-array](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/2496-maximum-value-of-a-string-in-an-array) |
 | [2645-minimum-additions-to-make-valid-string](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/2645-minimum-additions-to-make-valid-string) |
 | [2707-extra-characters-in-a-string](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/2707-extra-characters-in-a-string) |
 | [2744-find-maximum-number-of-string-pairs](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/2744-find-maximum-number-of-string-pairs) |
