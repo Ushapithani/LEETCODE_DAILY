@@ -1,14 +1,9 @@
 class Solution:
     def maximumValue(self, strs):
-        max_val = 0
-        
+        ans = 0
         for s in strs:
             if s.isdigit():
-                val = int(s)
+                ans = max(ans, int(s))
             else:
-                val = len(s)
-            
-            if val > max_val:
-                max_val = val
-        
-        return max_val
+                ans = max(ans, len(s))
+        return ans
