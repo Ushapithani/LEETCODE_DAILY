@@ -349,6 +349,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2976-minimum-cost-to-convert-string-i](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/2976-minimum-cost-to-convert-string-i) |
 | [3110-score-of-a-string](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/3110-score-of-a-string) |
 | [3136-valid-word](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/3136-valid-word) |
+| [3174-clear-digits](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/3174-clear-digits) |
 | [3438-find-valid-pair-of-adjacent-digits-in-string](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/3438-find-valid-pair-of-adjacent-digits-in-string) |
 | [3713-longest-balanced-substring-i](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/3713-longest-balanced-substring-i) |
 ## Counting
@@ -726,6 +727,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1441-build-an-array-with-stack-operations](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/1441-build-an-array-with-stack-operations) |
 | [2169-count-operations-to-obtain-zero](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/2169-count-operations-to-obtain-zero) |
 | [2744-find-maximum-number-of-string-pairs](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/2744-find-maximum-number-of-string-pairs) |
+| [3174-clear-digits](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/3174-clear-digits) |
 | [3379-transformed-array](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/3379-transformed-array) |
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/3653-xor-after-range-multiplication-queries-i) |
 ## Stack
@@ -749,6 +751,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1963-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/1963-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2116-check-if-a-parentheses-string-can-be-valid](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/2116-check-if-a-parentheses-string-can-be-valid) |
 | [2645-minimum-additions-to-make-valid-string](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/2645-minimum-additions-to-make-valid-string) |
+| [3174-clear-digits](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/3174-clear-digits) |
 ## Bit Manipulation
 |  |
 | ------- |
