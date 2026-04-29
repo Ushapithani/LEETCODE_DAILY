@@ -315,6 +315,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1422-maximum-score-after-splitting-a-string](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/1422-maximum-score-after-splitting-a-string) |
 | [1436-destination-city](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/1436-destination-city) |
 | [1455-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/1455-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
+| [1544-make-the-string-great](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/1544-make-the-string-great) |
 | [1629-slowest-key](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/1629-slowest-key) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 | [1657-determine-if-two-strings-are-close](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/1657-determine-if-two-strings-are-close) |
@@ -774,6 +775,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1249-minimum-remove-to-make-valid-parentheses](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/1249-minimum-remove-to-make-valid-parentheses) |
 | [1441-build-an-array-with-stack-operations](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/1441-build-an-array-with-stack-operations) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
+| [1544-make-the-string-great](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/1544-make-the-string-great) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 | [1963-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/1963-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2116-check-if-a-parentheses-string-can-be-valid](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/2116-check-if-a-parentheses-string-can-be-valid) |
