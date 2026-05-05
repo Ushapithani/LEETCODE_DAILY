@@ -444,6 +444,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/0027-remove-element) |
+| [0061-rotate-list](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/0061-rotate-list) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0125-valid-palindrome](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/0125-valid-palindrome) |
 | [0165-compare-version-numbers](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/0165-compare-version-numbers) |
@@ -756,6 +757,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/0021-merge-two-sorted-lists) |
 | [0024-swap-nodes-in-pairs](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/0024-swap-nodes-in-pairs) |
+| [0061-rotate-list](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/0061-rotate-list) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0706-design-hashmap](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/0706-design-hashmap) |
 | [1669-merge-in-between-linked-lists](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/1669-merge-in-between-linked-lists) |
