@@ -126,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1800-maximum-ascending-subarray-sum](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/1800-maximum-ascending-subarray-sum) |
 | [1848-minimum-distance-to-the-target-element](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/1848-minimum-distance-to-the-target-element) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/1855-maximum-distance-between-a-pair-of-values) |
+| [1861-rotating-the-box](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/1861-rotating-the-box) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [1901-find-a-peak-element-ii](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/1901-find-a-peak-element-ii) |
@@ -466,6 +467,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1455-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/1455-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 | [1721-swapping-nodes-in-a-linked-list](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/1721-swapping-nodes-in-a-linked-list) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/1855-maximum-distance-between-a-pair-of-values) |
+| [1861-rotating-the-box](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/1861-rotating-the-box) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1961-check-if-string-is-a-prefix-of-array](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/1961-check-if-string-is-a-prefix-of-array) |
 | [1963-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/1963-minimum-number-of-swaps-to-make-the-string-balanced) |
@@ -620,6 +622,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1582-special-positions-in-a-binary-matrix](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/1582-special-positions-in-a-binary-matrix) |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/1727-largest-submatrix-with-rearrangements) |
+| [1861-rotating-the-box](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/1861-rotating-the-box) |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [1901-find-a-peak-element-ii](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/1901-find-a-peak-element-ii) |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
