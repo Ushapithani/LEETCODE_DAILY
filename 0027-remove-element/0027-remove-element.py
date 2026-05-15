@@ -1,14 +1,8 @@
 class Solution:
     def removeElement(self, nums, val):
-        if not nums:
-            return 0
-        
-        unique = []
-        for num in nums:
-            if num != val:
-                unique.append(num)
-        
-        for i in range(len(unique)):
-            nums[i] = unique[i]
-        
-        return len(unique)
+        i = 0
+        for j in range(len(nums)):
+            if nums[j] != val:
+                nums[i] = nums[j]
+                i += 1
+        return i
