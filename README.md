@@ -142,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 | [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
 | [2053-kth-distinct-string-in-an-array](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/2053-kth-distinct-string-in-an-array) |
+| [2057-smallest-index-with-equal-value](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/2057-smallest-index-with-equal-value) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/2078-two-furthest-houses-with-different-colors) |
 | [2085-count-common-words-with-one-occurrence](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/2085-count-common-words-with-one-occurrence) |
 | [2131-longest-palindrome-by-concatenating-two-letter-words](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/2131-longest-palindrome-by-concatenating-two-letter-words) |
