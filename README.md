@@ -163,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2452-words-within-two-edits-of-dictionary](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/2452-words-within-two-edits-of-dictionary) |
 | [2463-minimum-total-distance-traveled](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/2463-minimum-total-distance-traveled) |
 | [2496-maximum-value-of-a-string-in-an-array](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/2496-maximum-value-of-a-string-in-an-array) |
+| [2540-minimum-common-value](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/2540-minimum-common-value) |
 | [2553-separate-the-digits-in-an-array](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/2553-separate-the-digits-in-an-array) |
 | [2586-count-the-number-of-vowel-strings-in-range](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/2586-count-the-number-of-vowel-strings-in-range) |
 | [2607-make-k-subarray-sums-equal](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/2607-make-k-subarray-sums-equal) |
@@ -266,6 +267,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2384-largest-palindromic-number](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/2384-largest-palindromic-number) |
 | [2418-sort-the-people](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/2418-sort-the-people) |
 | [2451-odd-string-difference](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/2451-odd-string-difference) |
+| [2540-minimum-common-value](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/2540-minimum-common-value) |
 | [2615-sum-of-distances](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/2615-sum-of-distances) |
 | [2707-extra-characters-in-a-string](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/2707-extra-characters-in-a-string) |
 | [2744-find-maximum-number-of-string-pairs](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/2744-find-maximum-number-of-string-pairs) |
@@ -488,6 +490,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1961-check-if-string-is-a-prefix-of-array](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/1961-check-if-string-is-a-prefix-of-array) |
 | [1963-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/1963-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/2410-maximum-matching-of-players-with-trainers) |
+| [2540-minimum-common-value](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/2540-minimum-common-value) |
 | [3643-flip-square-submatrix-vertically](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/3643-flip-square-submatrix-vertically) |
 ## Greedy
 |  |
@@ -622,6 +625,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [1901-find-a-peak-element-ii](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/1901-find-a-peak-element-ii) |
 | [2226-maximum-candies-allocated-to-k-children](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/2226-maximum-candies-allocated-to-k-children) |
+| [2540-minimum-common-value](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/2540-minimum-common-value) |
 | [2616-minimize-the-maximum-difference-of-pairs](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/2616-minimize-the-maximum-difference-of-pairs) |
 | [2967-minimum-cost-to-make-array-equalindromic](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/2967-minimum-cost-to-make-array-equalindromic) |
 | [3488-closest-equal-element-queries](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/3488-closest-equal-element-queries) |
