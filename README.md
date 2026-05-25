@@ -367,6 +367,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1790-check-if-one-string-swap-can-make-strings-equal](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/1790-check-if-one-string-swap-can-make-strings-equal) |
 | [1805-number-of-different-integers-in-a-string](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/1805-number-of-different-integers-in-a-string) |
 | [1859-sorting-the-sentence](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/1859-sorting-the-sentence) |
+| [1871-jump-game-vii](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/1871-jump-game-vii) |
 | [1880-check-if-word-equals-summation-of-two-words](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/1880-check-if-word-equals-summation-of-two-words) |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
 | [1930-unique-length-3-palindromic-subsequences](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/1930-unique-length-3-palindromic-subsequences) |
@@ -458,6 +459,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1590-make-sum-divisible-by-p](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/1590-make-sum-divisible-by-p) |
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/1674-minimum-moves-to-make-array-complementary) |
 | [1769-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/1769-minimum-number-of-operations-to-move-all-balls-to-each-box) |
+| [1871-jump-game-vii](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/1871-jump-game-vii) |
 | [1893-check-if-all-the-integers-in-a-range-are-covered](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/1893-check-if-all-the-integers-in-a-range-are-covered) |
 | [1930-unique-length-3-palindromic-subsequences](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/1930-unique-length-3-palindromic-subsequences) |
 | [2615-sum-of-distances](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/2615-sum-of-distances) |
@@ -605,6 +607,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0930-binary-subarrays-with-sum](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/0930-binary-subarrays-with-sum) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/1248-count-number-of-nice-subarrays) |
+| [1871-jump-game-vii](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/1871-jump-game-vii) |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [3634-minimum-removals-to-balance-array](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/3634-minimum-removals-to-balance-array) |
@@ -685,6 +688,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 | [1668-maximum-repeating-substring](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/1668-maximum-repeating-substring) |
+| [1871-jump-game-vii](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/1871-jump-game-vii) |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
 | [2435-paths-in-matrix-whose-sum-is-divisible-by-k](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/2435-paths-in-matrix-whose-sum-is-divisible-by-k) |
 | [2463-minimum-total-distance-traveled](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/2463-minimum-total-distance-traveled) |
