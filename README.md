@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/0014-longest-common-prefix) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/0027-remove-element) |
 | [0033-search-in-rotated-sorted-array](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/0033-search-in-rotated-sorted-array) |
@@ -295,6 +296,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0008-string-to-integer-atoi](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/0008-string-to-integer-atoi) |
 | [0012-integer-to-roman](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/0013-roman-to-integer) |
+| [0014-longest-common-prefix](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/0014-longest-common-prefix) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0038-count-and-say](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/0038-count-and-say) |
 | [0049-group-anagrams](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/0049-group-anagrams) |
@@ -998,6 +1000,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Trie
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/0014-longest-common-prefix) |
 | [0139-word-break](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/0139-word-break) |
 | [0648-replace-words](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/0648-replace-words) |
 | [0676-implement-magic-dictionary](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/0676-implement-magic-dictionary) |
