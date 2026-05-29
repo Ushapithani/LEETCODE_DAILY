@@ -375,6 +375,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1880-check-if-word-equals-summation-of-two-words](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/1880-check-if-word-equals-summation-of-two-words) |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
 | [1930-unique-length-3-palindromic-subsequences](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/1930-unique-length-3-palindromic-subsequences) |
+| [1945-sum-of-digits-of-string-after-convert](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/1945-sum-of-digits-of-string-after-convert) |
 | [1961-check-if-string-is-a-prefix-of-array](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/1961-check-if-string-is-a-prefix-of-array) |
 | [1963-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/1963-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [1980-find-unique-binary-string](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/1980-find-unique-binary-string) |
@@ -838,6 +839,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1441-build-an-array-with-stack-operations](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/1441-build-an-array-with-stack-operations) |
 | [1646-get-maximum-in-generated-array](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/1646-get-maximum-in-generated-array) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/1700-number-of-students-unable-to-eat-lunch) |
+| [1945-sum-of-digits-of-string-after-convert](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/1945-sum-of-digits-of-string-after-convert) |
 | [2169-count-operations-to-obtain-zero](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/2169-count-operations-to-obtain-zero) |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
 | [2553-separate-the-digits-in-an-array](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/2553-separate-the-digits-in-an-array) |
