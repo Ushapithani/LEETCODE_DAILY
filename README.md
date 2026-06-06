@@ -686,6 +686,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0062-unique-paths](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/0062-unique-paths) |
 | [0063-unique-paths-ii](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/0064-minimum-path-sum) |
 | [0072-edit-distance](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/0072-edit-distance) |
@@ -749,6 +750,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/0013-roman-to-integer) |
 | [0029-divide-two-integers](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/0029-divide-two-integers) |
 | [0060-permutation-sequence](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/0060-permutation-sequence) |
+| [0062-unique-paths](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/0062-unique-paths) |
 | [0067-add-binary](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/0069-sqrtx) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/0150-evaluate-reverse-polish-notation) |
@@ -1081,4 +1083,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
+## Combinatorics
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/0062-unique-paths) |
 <!---LeetCode Topics End-->
