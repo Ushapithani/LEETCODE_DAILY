@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/0027-remove-element) |
 | [0033-search-in-rotated-sorted-array](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/0033-search-in-rotated-sorted-array) |
 | [0041-first-missing-positive](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/0041-first-missing-positive) |
+| [0048-rotate-image](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/0057-insert-interval) |
@@ -676,6 +677,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/0048-rotate-image) |
 | [0063-unique-paths-ii](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/0064-minimum-path-sum) |
 | [0074-search-a-2d-matrix](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/0074-search-a-2d-matrix) |
@@ -765,6 +767,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0012-integer-to-roman](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/0013-roman-to-integer) |
 | [0029-divide-two-integers](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/0029-divide-two-integers) |
+| [0048-rotate-image](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/0048-rotate-image) |
 | [0060-permutation-sequence](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/0060-permutation-sequence) |
 | [0062-unique-paths](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/0062-unique-paths) |
 | [0067-add-binary](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/0067-add-binary) |
