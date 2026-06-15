@@ -3,7 +3,7 @@ class Solution:
         rows = len(matrix)
         cols = len(matrix[0])
         zero_rows = set()
-        zero_cols=set()
+        zero_cols= set()
         for i in range(rows):
             for j in range(cols):
                 if matrix[i][j]==0:
@@ -15,5 +15,3 @@ class Solution:
         for j in zero_cols:
             for i in range(rows):
                 matrix[i][j]=0
-
-        
