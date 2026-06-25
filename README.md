@@ -219,6 +219,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3668-restore-finishing-order](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/3668-restore-finishing-order) |
 | [3689-maximum-total-subarray-value-i](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/3689-maximum-total-subarray-value-i) |
 | [3719-longest-balanced-subarray-i](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/3719-longest-balanced-subarray-i) |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
 ## Hash Table
@@ -316,6 +317,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3668-restore-finishing-order](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/3668-restore-finishing-order) |
 | [3713-longest-balanced-substring-i](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/3713-longest-balanced-substring-i) |
 | [3719-longest-balanced-subarray-i](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/3719-longest-balanced-subarray-i) |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
 ## String
@@ -476,6 +478,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2833-furthest-point-from-origin](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/2833-furthest-point-from-origin) |
 | [3438-find-valid-pair-of-adjacent-digits-in-string](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/3438-find-valid-pair-of-adjacent-digits-in-string) |
 | [3713-longest-balanced-substring-i](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/3713-longest-balanced-substring-i) |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## String Matching
 |  |
 | ------- |
@@ -506,6 +509,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3028-ant-on-the-boundary](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/3028-ant-on-the-boundary) |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
 | [3719-longest-balanced-subarray-i](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/3719-longest-balanced-subarray-i) |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Two Pointers
 |  |
 | ------- |
@@ -995,6 +999,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1382-balance-a-binary-search-tree](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/1382-balance-a-binary-search-tree) |
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/3653-xor-after-range-multiplication-queries-i) |
 | [3719-longest-balanced-subarray-i](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/3719-longest-balanced-subarray-i) |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Tree
 |  |
 | ------- |
@@ -1047,6 +1052,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0715-range-module](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/0715-range-module) |
 | [3719-longest-balanced-subarray-i](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/3719-longest-balanced-subarray-i) |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -1149,4 +1155,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/0062-unique-paths) |
+## Merge Sort
+|  |
+| ------- |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/3737-count-subarrays-with-majority-element-i) |
 <!---LeetCode Topics End-->
