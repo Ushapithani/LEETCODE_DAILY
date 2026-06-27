@@ -200,6 +200,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2967-minimum-cost-to-make-array-equalindromic](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/2967-minimum-cost-to-make-array-equalindromic) |
 | [2976-minimum-cost-to-convert-string-i](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/2976-minimum-cost-to-convert-string-i) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
+| [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3028-ant-on-the-boundary](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/3028-ant-on-the-boundary) |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
@@ -308,6 +309,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2784-check-if-array-is-good](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/2784-check-if-array-is-good) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
 | [2965-find-missing-and-repeated-values](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/2965-find-missing-and-repeated-values) |
+| [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/3121-count-the-number-of-special-characters-ii) |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
@@ -790,6 +792,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1995-count-special-quadruplets](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/1995-count-special-quadruplets) |
 | [2259-remove-digit-from-number-to-maximize-result](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/2259-remove-digit-from-number-to-maximize-result) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
+| [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3483-unique-3-digit-even-numbers](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/3483-unique-3-digit-even-numbers) |
 | [3713-longest-balanced-substring-i](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/3713-longest-balanced-substring-i) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/3751-total-waviness-of-numbers-in-range-i) |
