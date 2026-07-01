@@ -257,6 +257,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0575-distribute-candies](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/0575-distribute-candies) |
 | [0645-set-mismatch](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/0645-set-mismatch) |
 | [0648-replace-words](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/0648-replace-words) |
+| [0653-two-sum-iv-input-is-a-bst](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0676-implement-magic-dictionary](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/0676-implement-magic-dictionary) |
 | [0697-degree-of-an-array](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/0697-degree-of-an-array) |
 | [0706-design-hashmap](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/0706-design-hashmap) |
@@ -540,6 +541,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0522-longest-uncommon-subsequence-ii](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/0522-longest-uncommon-subsequence-ii) |
 | [0524-longest-word-in-dictionary-through-deleting](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/0524-longest-word-in-dictionary-through-deleting) |
 | [0611-valid-triangle-number](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/0611-valid-triangle-number) |
+| [0653-two-sum-iv-input-is-a-bst](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0696-count-binary-substrings](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/0696-count-binary-substrings) |
 | [0795-number-of-subarrays-with-bounded-maximum](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/0795-number-of-subarrays-with-bounded-maximum) |
 | [0826-most-profit-assigning-work](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/0826-most-profit-assigning-work) |
@@ -888,6 +890,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0210-course-schedule-ii](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/0210-course-schedule-ii) |
 | [0279-perfect-squares](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/0279-perfect-squares) |
 | [0463-island-perimeter](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/0463-island-perimeter) |
+| [0653-two-sum-iv-input-is-a-bst](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0695-max-area-of-island](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/0733-flood-fill) |
 | [0785-is-graph-bipartite](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/0785-is-graph-bipartite) |
@@ -1025,6 +1028,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0102-binary-tree-level-order-traversal](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/0102-binary-tree-level-order-traversal) |
 | [0112-path-sum](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/0112-path-sum) |
 | [0543-diameter-of-binary-tree](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/0543-diameter-of-binary-tree) |
+| [0653-two-sum-iv-input-is-a-bst](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [1376-time-needed-to-inform-all-employees](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/1376-time-needed-to-inform-all-employees) |
 | [1382-balance-a-binary-search-tree](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/1382-balance-a-binary-search-tree) |
 ## Depth-First Search
@@ -1038,6 +1042,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0210-course-schedule-ii](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/0210-course-schedule-ii) |
 | [0463-island-perimeter](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/0463-island-perimeter) |
 | [0543-diameter-of-binary-tree](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/0543-diameter-of-binary-tree) |
+| [0653-two-sum-iv-input-is-a-bst](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0676-implement-magic-dictionary](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/0676-implement-magic-dictionary) |
 | [0695-max-area-of-island](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/0733-flood-fill) |
@@ -1048,6 +1053,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search Tree
 |  |
 | ------- |
+| [0653-two-sum-iv-input-is-a-bst](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [1382-balance-a-binary-search-tree](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/1382-balance-a-binary-search-tree) |
 ## Binary Tree
 |  |
@@ -1055,6 +1061,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0102-binary-tree-level-order-traversal](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/0102-binary-tree-level-order-traversal) |
 | [0112-path-sum](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/0112-path-sum) |
 | [0543-diameter-of-binary-tree](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/0543-diameter-of-binary-tree) |
+| [0653-two-sum-iv-input-is-a-bst](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [1382-balance-a-binary-search-tree](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/1382-balance-a-binary-search-tree) |
 ## Bucket Sort
 |  |
