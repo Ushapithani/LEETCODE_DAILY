@@ -77,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0706-design-hashmap](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/0706-design-hashmap) |
 | [0713-subarray-product-less-than-k](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/0713-subarray-product-less-than-k) |
 | [0720-longest-word-in-dictionary](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/0720-longest-word-in-dictionary) |
+| [0724-find-pivot-index](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/0724-find-pivot-index) |
 | [0733-flood-fill](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/0733-flood-fill) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0746-min-cost-climbing-stairs](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/0746-min-cost-climbing-stairs) |
@@ -519,6 +520,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0238-product-of-array-except-self](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/0238-product-of-array-except-self) |
 | [0560-subarray-sum-equals-k](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/0560-subarray-sum-equals-k) |
 | [0713-subarray-product-less-than-k](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/0713-subarray-product-less-than-k) |
+| [0724-find-pivot-index](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/0724-find-pivot-index) |
 | [0930-binary-subarrays-with-sum](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/0930-binary-subarrays-with-sum) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1004-max-consecutive-ones-iii](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/1004-max-consecutive-ones-iii) |
