@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0463-island-perimeter](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/0463-island-perimeter) |
+| [0485-max-consecutive-ones](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/0485-max-consecutive-ones) |
 | [0495-teemo-attacking](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/0495-teemo-attacking) |
 | [0496-next-greater-element-i](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/0503-next-greater-element-ii) |
