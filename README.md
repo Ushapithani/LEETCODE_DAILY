@@ -94,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0976-largest-perimeter-triangle](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/0976-largest-perimeter-triangle) |
 | [0986-interval-list-intersections](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/0986-interval-list-intersections) |
 | [0997-find-the-town-judge](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/0997-find-the-town-judge) |
+| [1004-max-consecutive-ones-iii](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/1004-max-consecutive-ones-iii) |
 | [1005-maximize-sum-of-array-after-k-negations](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/1005-maximize-sum-of-array-after-k-negations) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1013-partition-array-into-three-parts-with-equal-sum](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/1013-partition-array-into-three-parts-with-equal-sum) |
@@ -511,6 +512,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/0560-subarray-sum-equals-k) |
 | [0930-binary-subarrays-with-sum](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/0930-binary-subarrays-with-sum) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/0974-subarray-sums-divisible-by-k) |
+| [1004-max-consecutive-ones-iii](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/1004-max-consecutive-ones-iii) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/1248-count-number-of-nice-subarrays) |
 | [1413-minimum-value-to-get-positive-step-by-step-sum](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/1413-minimum-value-to-get-positive-step-by-step-sum) |
 | [1422-maximum-score-after-splitting-a-string](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/1422-maximum-score-after-splitting-a-string) |
@@ -690,6 +692,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0930-binary-subarrays-with-sum](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/0930-binary-subarrays-with-sum) |
+| [1004-max-consecutive-ones-iii](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/1004-max-consecutive-ones-iii) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/1248-count-number-of-nice-subarrays) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1871-jump-game-vii](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/1871-jump-game-vii) |
@@ -715,6 +718,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0826-most-profit-assigning-work](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/0826-most-profit-assigning-work) |
 | [0875-koko-eating-bananas](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/0875-koko-eating-bananas) |
 | [0888-fair-candy-swap](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/0888-fair-candy-swap) |
+| [1004-max-consecutive-ones-iii](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/1004-max-consecutive-ones-iii) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1268-search-suggestions-system](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/1268-search-suggestions-system) |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
