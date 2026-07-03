@@ -96,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0974-subarray-sums-divisible-by-k](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/0974-subarray-sums-divisible-by-k) |
 | [0976-largest-perimeter-triangle](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/0976-largest-perimeter-triangle) |
 | [0986-interval-list-intersections](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/0986-interval-list-intersections) |
+| [0992-subarrays-with-k-different-integers](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/0992-subarrays-with-k-different-integers) |
 | [0997-find-the-town-judge](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/0997-find-the-town-judge) |
 | [1004-max-consecutive-ones-iii](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/1004-max-consecutive-ones-iii) |
 | [1005-maximize-sum-of-array-after-k-negations](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/1005-maximize-sum-of-array-after-k-negations) |
@@ -279,6 +280,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0929-unique-email-addresses](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/0929-unique-email-addresses) |
 | [0930-binary-subarrays-with-sum](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/0930-binary-subarrays-with-sum) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/0974-subarray-sums-divisible-by-k) |
+| [0992-subarrays-with-k-different-integers](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/0992-subarrays-with-k-different-integers) |
 | [0997-find-the-town-judge](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/0997-find-the-town-judge) |
 | [1189-maximum-number-of-balloons](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/1189-maximum-number-of-balloons) |
 | [1207-unique-number-of-occurrences](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/1207-unique-number-of-occurrences) |
@@ -475,6 +477,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/0229-majority-element-ii) |
 | [0347-top-k-frequent-elements](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/0347-top-k-frequent-elements) |
 | [0451-sort-characters-by-frequency](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/0451-sort-characters-by-frequency) |
+| [0992-subarrays-with-k-different-integers](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/0992-subarrays-with-k-different-integers) |
 | [1189-maximum-number-of-balloons](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/1189-maximum-number-of-balloons) |
 | [1221-split-a-string-in-balanced-strings](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/1221-split-a-string-in-balanced-strings) |
 | [1347-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/1347-minimum-number-of-steps-to-make-two-strings-anagram) |
@@ -701,6 +704,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0713-subarray-product-less-than-k](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/0713-subarray-product-less-than-k) |
 | [0904-fruit-into-baskets](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/0904-fruit-into-baskets) |
 | [0930-binary-subarrays-with-sum](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/0930-binary-subarrays-with-sum) |
+| [0992-subarrays-with-k-different-integers](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/0992-subarrays-with-k-different-integers) |
 | [1004-max-consecutive-ones-iii](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/1004-max-consecutive-ones-iii) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/1248-count-number-of-nice-subarrays) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/1358-number-of-substrings-containing-all-three-characters) |
