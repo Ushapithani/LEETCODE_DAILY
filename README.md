@@ -839,6 +839,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/0204-count-primes) |
+| [1291-sequential-digits](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/1291-sequential-digits) |
 | [1995-count-special-quadruplets](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/1995-count-special-quadruplets) |
 | [2259-remove-digit-from-number-to-maximize-result](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/2259-remove-digit-from-number-to-maximize-result) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
