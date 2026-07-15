@@ -901,6 +901,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3627-maximum-median-sum-of-subsequences-of-size-3](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/3627-maximum-median-sum-of-subsequences-of-size-3) |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
 | [3783-mirror-distance-of-an-integer](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/3783-mirror-distance-of-an-integer) |
@@ -1130,6 +1131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0204-count-primes](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/0204-count-primes) |
 | [2607-make-k-subarray-sums-equal](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/2607-make-k-subarray-sums-equal) |
 | [2748-number-of-beautiful-pairs](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/2748-number-of-beautiful-pairs) |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Backtracking
 |  |
 | ------- |
