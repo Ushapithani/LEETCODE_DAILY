@@ -239,6 +239,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Hash Table
 |  |
 | ------- |
@@ -588,6 +589,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
 | [3643-flip-square-submatrix-vertically](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/3643-flip-square-submatrix-vertically) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Greedy
 |  |
 | ------- |
@@ -702,6 +704,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3634-minimum-removals-to-balance-array](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/3634-minimum-removals-to-balance-array) |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Sliding Window
 |  |
 | ------- |
@@ -905,6 +908,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
 | [3783-mirror-distance-of-an-integer](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/3783-mirror-distance-of-an-integer) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Brainteaser
 |  |
 | ------- |
@@ -985,6 +989,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3379-transformed-array](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/3379-transformed-array) |
 | [3614-process-string-with-special-operations-ii](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/3614-process-string-with-special-operations-ii) |
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/3653-xor-after-range-multiplication-queries-i) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Stack
 |  |
 | ------- |
@@ -1132,6 +1137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2607-make-k-subarray-sums-equal](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/2607-make-k-subarray-sums-equal) |
 | [2748-number-of-beautiful-pairs](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/2748-number-of-beautiful-pairs) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/3658-gcd-of-odd-and-even-sums) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Backtracking
 |  |
 | ------- |
