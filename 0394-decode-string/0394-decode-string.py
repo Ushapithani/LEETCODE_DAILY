@@ -1,20 +1,23 @@
 class Solution:
     def decodeString(self, s: str) -> str:
-        stack = []
-        current_string = ""
-        current_num = 0
+        countStack = []
+        stringStack = []
+        curr = ""
+        num = 0
 
-        for char in s:
-            if char.isdigit():
-                current_num = current_num * 10 + int(char)
-            elif char == "[":
-                stack.append((current_string, current_num))
-                current_string = ""
-                current_num = 0
-            elif char == "]":
-                prev_string, num = stack.pop()
-                current_string = prev_string + num * current_string
+        for ch in s:
+            if ch.isdigit():
+                num = num * 10 + int(ch)
+            elif ch == "[":
+                countStack.append(num)
+                stringStack.append(curr)
+                num = 0
+                curr = ""
+            elif ch == "]":
+                repeat = countStack.pop()
+                prev = stringStack.pop()
+                curr = prev + curr * repeat
             else:
-                current_string += char
+                curr += ch
 
-        return current_string
+        return curr
