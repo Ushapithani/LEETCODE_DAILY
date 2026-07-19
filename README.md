@@ -400,6 +400,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1078-occurrences-after-bigram](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/1078-occurrences-after-bigram) |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1108-defanging-an-ip-address](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/1108-defanging-an-ip-address) |
 | [1154-day-of-the-year](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/1154-day-of-the-year) |
 | [1189-maximum-number-of-balloons](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/1189-maximum-number-of-balloons) |
@@ -605,6 +606,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0976-largest-perimeter-triangle](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/0976-largest-perimeter-triangle) |
 | [1005-maximize-sum-of-array-after-k-negations](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/1005-maximize-sum-of-array-after-k-negations) |
 | [1013-partition-array-into-three-parts-with-equal-sum](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/1013-partition-array-into-three-parts-with-equal-sum) |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1217-minimum-cost-to-move-chips-to-the-same-position](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/1217-minimum-cost-to-move-chips-to-the-same-position) |
 | [1221-split-a-string-in-balanced-strings](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/1221-split-a-string-in-balanced-strings) |
 | [1382-balance-a-binary-search-tree](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/1382-balance-a-binary-search-tree) |
@@ -1006,6 +1008,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0844-backspace-string-compare](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/0844-backspace-string-compare) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1249-minimum-remove-to-make-valid-parentheses](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/1249-minimum-remove-to-make-valid-parentheses) |
 | [1441-build-an-array-with-stack-operations](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/1441-build-an-array-with-stack-operations) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
@@ -1190,6 +1193,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0496-next-greater-element-i](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/0503-next-greater-element-ii) |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 ## Queue
 |  |
