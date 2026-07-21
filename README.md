@@ -371,6 +371,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0139-word-break](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/0139-word-break) |
 | [0151-reverse-words-in-a-string](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/0151-reverse-words-in-a-string) |
 | [0165-compare-version-numbers](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/0165-compare-version-numbers) |
+| [0171-excel-sheet-column-number](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/0171-excel-sheet-column-number) |
 | [0227-basic-calculator-ii](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/0227-basic-calculator-ii) |
 | [0241-different-ways-to-add-parentheses](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/0241-different-ways-to-add-parentheses) |
 | [0273-integer-to-english-words](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/0273-integer-to-english-words) |
@@ -878,6 +879,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/0069-sqrtx) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0171-excel-sheet-column-number](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/0171-excel-sheet-column-number) |
 | [0189-rotate-array](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/0202-happy-number) |
 | [0204-count-primes](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/0204-count-primes) |
