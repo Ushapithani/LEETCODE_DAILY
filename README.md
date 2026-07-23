@@ -969,6 +969,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0142-linked-list-cycle-ii](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/0160-intersection-of-two-linked-lists) |
+| [0328-odd-even-linked-list](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/0328-odd-even-linked-list) |
 | [0706-design-hashmap](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/0706-design-hashmap) |
 | [1669-merge-in-between-linked-lists](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/1669-merge-in-between-linked-lists) |
 | [1721-swapping-nodes-in-a-linked-list](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/1721-swapping-nodes-in-a-linked-list) |
