@@ -68,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0523-continuous-subarray-sum](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/0523-continuous-subarray-sum) |
 | [0524-longest-word-in-dictionary-through-deleting](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/0524-longest-word-in-dictionary-through-deleting) |
 | [0560-subarray-sum-equals-k](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/0560-subarray-sum-equals-k) |
+| [0561-array-partition](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/0561-array-partition) |
 | [0575-distribute-candies](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/0575-distribute-candies) |
 | [0605-can-place-flowers](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/0605-can-place-flowers) |
 | [0611-valid-triangle-number](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/0611-valid-triangle-number) |
@@ -618,6 +619,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0397-integer-replacement](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/0397-integer-replacement) |
 | [0435-non-overlapping-intervals](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/0435-non-overlapping-intervals) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
+| [0561-array-partition](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/0561-array-partition) |
 | [0605-can-place-flowers](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/0605-can-place-flowers) |
 | [0611-valid-triangle-number](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/0611-valid-triangle-number) |
 | [0826-most-profit-assigning-work](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/0826-most-profit-assigning-work) |
@@ -679,6 +681,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0506-relative-ranks](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/0506-relative-ranks) |
 | [0522-longest-uncommon-subsequence-ii](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/0522-longest-uncommon-subsequence-ii) |
 | [0524-longest-word-in-dictionary-through-deleting](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/0524-longest-word-in-dictionary-through-deleting) |
+| [0561-array-partition](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/0561-array-partition) |
 | [0611-valid-triangle-number](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/0611-valid-triangle-number) |
 | [0645-set-mismatch](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/0645-set-mismatch) |
 | [0720-longest-word-in-dictionary](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/0720-longest-word-in-dictionary) |
@@ -1252,6 +1255,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting Sort
 |  |
 | ------- |
+| [0561-array-partition](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/0561-array-partition) |
 | [1833-maximum-ice-cream-bars](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/1833-maximum-ice-cream-bars) |
 | [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
 ## Combinatorics
