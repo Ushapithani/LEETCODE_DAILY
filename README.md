@@ -177,6 +177,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2057-smallest-index-with-equal-value](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/2057-smallest-index-with-equal-value) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/2078-two-furthest-houses-with-different-colors) |
 | [2085-count-common-words-with-one-occurrence](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/2085-count-common-words-with-one-occurrence) |
+| [2114-maximum-number-of-words-found-in-sentences](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2131-longest-palindrome-by-concatenating-two-letter-words](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/2131-longest-palindrome-by-concatenating-two-letter-words) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2148-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/2148-count-elements-with-strictly-smaller-and-greater-elements) |
@@ -451,6 +452,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1980-find-unique-binary-string](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/1980-find-unique-binary-string) |
 | [2053-kth-distinct-string-in-an-array](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/2053-kth-distinct-string-in-an-array) |
 | [2085-count-common-words-with-one-occurrence](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/2085-count-common-words-with-one-occurrence) |
+| [2114-maximum-number-of-words-found-in-sentences](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2116-check-if-a-parentheses-string-can-be-valid](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/2116-check-if-a-parentheses-string-can-be-valid) |
 | [2131-longest-palindrome-by-concatenating-two-letter-words](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/2131-longest-palindrome-by-concatenating-two-letter-words) |
 | [2185-counting-words-with-a-given-prefix](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/2185-counting-words-with-a-given-prefix) |
