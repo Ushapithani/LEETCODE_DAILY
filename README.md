@@ -149,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1640-check-array-formation-through-concatenation](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/1640-check-array-formation-through-concatenation) |
 | [1646-get-maximum-in-generated-array](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/1646-get-maximum-in-generated-array) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
+| [1672-richest-customer-wealth](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/1672-richest-customer-wealth) |
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/1674-minimum-moves-to-make-array-complementary) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/1684-count-the-number-of-consistent-strings) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/1700-number-of-students-unable-to-eat-lunch) |
@@ -814,6 +815,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/1582-special-positions-in-a-binary-matrix) |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
+| [1672-richest-customer-wealth](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/1672-richest-customer-wealth) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [1861-rotating-the-box](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/1861-rotating-the-box) |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
