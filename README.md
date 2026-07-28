@@ -392,6 +392,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0318-maximum-product-of-word-lengths](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/0318-maximum-product-of-word-lengths) |
 | [0387-first-unique-character-in-a-string](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/0387-first-unique-character-in-a-string) |
 | [0394-decode-string](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/0394-decode-string) |
+| [0412-fizz-buzz](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/0412-fizz-buzz) |
 | [0451-sort-characters-by-frequency](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/0451-sort-characters-by-frequency) |
 | [0459-repeated-substring-pattern](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/0459-repeated-substring-pattern) |
 | [0482-license-key-formatting](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/0482-license-key-formatting) |
@@ -918,6 +919,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0313-super-ugly-number](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/0313-super-ugly-number) |
 | [0357-count-numbers-with-unique-digits](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/0357-count-numbers-with-unique-digits) |
 | [0396-rotate-function](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/0396-rotate-function) |
+| [0412-fizz-buzz](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/0412-fizz-buzz) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0504-base-7](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/0504-base-7) |
@@ -1017,6 +1019,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0054-spiral-matrix](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/0054-spiral-matrix) |
 | [0067-add-binary](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/0067-add-binary) |
+| [0412-fizz-buzz](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/0412-fizz-buzz) |
 | [0495-teemo-attacking](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/0495-teemo-attacking) |
 | [0657-robot-return-to-origin](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/0657-robot-return-to-origin) |
 | [0682-baseball-game](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/0682-baseball-game) |
