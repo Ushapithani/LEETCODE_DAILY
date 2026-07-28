@@ -1054,6 +1054,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0071-simplify-path](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/0071-simplify-path) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/0084-largest-rectangle-in-histogram) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0225-implement-stack-using-queues](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/0225-implement-stack-using-queues) |
 | [0227-basic-calculator-ii](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/0227-basic-calculator-ii) |
 | [0232-implement-queue-using-stacks](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/0232-implement-queue-using-stacks) |
 | [0394-decode-string](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/0394-decode-string) |
@@ -1097,6 +1098,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Design
 |  |
 | ------- |
+| [0225-implement-stack-using-queues](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/0232-implement-queue-using-stacks) |
 | [0676-implement-magic-dictionary](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/0676-implement-magic-dictionary) |
 | [0706-design-hashmap](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/0706-design-hashmap) |
@@ -1258,6 +1260,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Queue
 |  |
 | ------- |
+| [0225-implement-stack-using-queues](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/0232-implement-queue-using-stacks) |
 | [0387-first-unique-character-in-a-string](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/0387-first-unique-character-in-a-string) |
 | [0933-number-of-recent-calls](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/0933-number-of-recent-calls) |
