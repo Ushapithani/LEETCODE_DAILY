@@ -2,15 +2,13 @@ class Solution:
     def simplifyPath(self, path: str) -> str:
         stack = []
 
-        parts = path.split("/")
-
-        for part in parts:
-            if part == "..":
+        for directory in path.split("/"):
+            if directory == "" or directory == ".":
+                continue
+            elif directory == "..":
                 if stack:
                     stack.pop()
-            elif part == "." or part == "":
-                continue
             else:
-                stack.append(part)
+                stack.append(directory)
 
         return "/" + "/".join(stack)
