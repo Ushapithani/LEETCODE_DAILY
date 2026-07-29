@@ -418,6 +418,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0806-number-of-lines-to-write-string](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/0806-number-of-lines-to-write-string) |
 | [0824-goat-latin](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/0824-goat-latin) |
 | [0844-backspace-string-compare](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/0844-backspace-string-compare) |
+| [0856-score-of-parentheses](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/0856-score-of-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [0925-long-pressed-name](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/0925-long-pressed-name) |
 | [0929-unique-email-addresses](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/0929-unique-email-addresses) |
@@ -1070,6 +1071,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0682-baseball-game](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/0682-baseball-game) |
 | [0739-daily-temperatures](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/0739-daily-temperatures) |
 | [0844-backspace-string-compare](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/0844-backspace-string-compare) |
+| [0856-score-of-parentheses](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/0856-score-of-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1021-remove-outermost-parentheses](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/1021-remove-outermost-parentheses) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
