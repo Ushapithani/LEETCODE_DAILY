@@ -447,6 +447,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1455-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/1455-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 | [1544-make-the-string-great](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/1544-make-the-string-great) |
 | [1598-crawler-log-folder](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/1598-crawler-log-folder) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1629-slowest-key](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/1629-slowest-key) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 | [1657-determine-if-two-strings-are-close](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/1657-determine-if-two-strings-are-close) |
@@ -1097,6 +1098,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [1544-make-the-string-great](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/1544-make-the-string-great) |
 | [1598-crawler-log-folder](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/1598-crawler-log-folder) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [1963-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/1963-minimum-number-of-swaps-to-make-the-string-balanced) |
