@@ -432,6 +432,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1108-defanging-an-ip-address](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/1108-defanging-an-ip-address) |
 | [1154-day-of-the-year](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/1154-day-of-the-year) |
 | [1189-maximum-number-of-balloons](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/1189-maximum-number-of-balloons) |
+| [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1221-split-a-string-in-balanced-strings](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/1221-split-a-string-in-balanced-strings) |
 | [1249-minimum-remove-to-make-valid-parentheses](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/1249-minimum-remove-to-make-valid-parentheses) |
 | [1268-search-suggestions-system](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/1268-search-suggestions-system) |
@@ -1085,6 +1086,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1021-remove-outermost-parentheses](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/1021-remove-outermost-parentheses) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+| [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1249-minimum-remove-to-make-valid-parentheses](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/1249-minimum-remove-to-make-valid-parentheses) |
 | [1441-build-an-array-with-stack-operations](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/1441-build-an-array-with-stack-operations) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
