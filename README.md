@@ -853,6 +853,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0062-unique-paths](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/0062-unique-paths) |
 | [0063-unique-paths-ii](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/0064-minimum-path-sum) |
+| [0070-climbing-stairs](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/0070-climbing-stairs) |
 | [0072-edit-distance](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/0072-edit-distance) |
 | [0097-interleaving-string](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/0097-interleaving-string) |
 | [0118-pascals-triangle](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/0118-pascals-triangle) |
@@ -926,6 +927,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0062-unique-paths](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/0062-unique-paths) |
 | [0067-add-binary](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/0069-sqrtx) |
+| [0070-climbing-stairs](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/0070-climbing-stairs) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0171-excel-sheet-column-number](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/0171-excel-sheet-column-number) |
 | [0189-rotate-array](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/0189-rotate-array) |
@@ -1256,6 +1258,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Memoization
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/0070-climbing-stairs) |
 | [0139-word-break](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/0139-word-break) |
 | [0241-different-ways-to-add-parentheses](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/0241-different-ways-to-add-parentheses) |
 | [0397-integer-replacement](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/0397-integer-replacement) |
