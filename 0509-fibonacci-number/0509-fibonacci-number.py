@@ -1,19 +1,14 @@
 class Solution:
     def fib(self, n: int) -> int:
-        dp = [-1] * (n + 1)
 
-        return self.solve(n, dp)
+        memo = {0: 0, 1: 1}
 
-    def solve(self, n, dp):
-        if n == 0:
-            return 0
+        def f(x):
+            if x in memo:
+                return memo[x]
 
-        if n == 1:
-            return 1
+            memo[x] = f(x-1) + f(x-2)
 
-        if dp[n] != -1:
-            return dp[n]
+            return memo[x]
 
-        dp[n] = self.solve(n - 1, dp) + self.solve(n - 2, dp)
-
-        return dp[n]
+        return f(n)
