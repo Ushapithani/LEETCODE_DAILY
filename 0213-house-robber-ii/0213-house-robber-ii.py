@@ -4,8 +4,8 @@ class Solution:
             return nums[0]
 
         return max(
-            self.houseRobber(nums[:-1]),  # Exclude last house
-            self.houseRobber(nums[1:])    # Exclude first house
+            self.houseRobber(nums[:-1]),  
+            self.houseRobber(nums[1:])    
         )
 
     def houseRobber(self, nums):
