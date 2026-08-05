@@ -87,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0724-find-pivot-index](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/0724-find-pivot-index) |
 | [0733-flood-fill](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/0733-flood-fill) |
 | [0739-daily-temperatures](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/0739-daily-temperatures) |
+| [0740-delete-and-earn](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/0740-delete-and-earn) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0746-min-cost-climbing-stairs](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/0746-min-cost-climbing-stairs) |
 | [0748-shortest-completing-word](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/0748-shortest-completing-word) |
@@ -299,6 +300,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0697-degree-of-an-array](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/0697-degree-of-an-array) |
 | [0706-design-hashmap](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/0706-design-hashmap) |
 | [0720-longest-word-in-dictionary](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/0720-longest-word-in-dictionary) |
+| [0740-delete-and-earn](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/0740-delete-and-earn) |
 | [0748-shortest-completing-word](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/0748-shortest-completing-word) |
 | [0771-jewels-and-stones](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/0771-jewels-and-stones) |
 | [0791-custom-sort-string](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/0791-custom-sort-string) |
@@ -877,6 +879,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0397-integer-replacement](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/0397-integer-replacement) |
 | [0435-non-overlapping-intervals](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/0435-non-overlapping-intervals) |
 | [0509-fibonacci-number](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/0509-fibonacci-number) |
+| [0740-delete-and-earn](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/0740-delete-and-earn) |
 | [0746-min-cost-climbing-stairs](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/0746-min-cost-climbing-stairs) |
 | [0788-rotated-digits](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/0788-rotated-digits) |
 | [0799-champagne-tower](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/0799-champagne-tower) |
