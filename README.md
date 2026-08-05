@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/0283-move-zeroes) |
 | [0313-super-ugly-number](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/0313-super-ugly-number) |
 | [0318-maximum-product-of-word-lengths](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/0318-maximum-product-of-word-lengths) |
+| [0322-coin-change](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/0322-coin-change) |
 | [0334-increasing-triplet-subsequence](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/0334-increasing-triplet-subsequence) |
 | [0347-top-k-frequent-elements](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/0349-intersection-of-two-arrays) |
@@ -874,6 +875,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0264-ugly-number-ii](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/0264-ugly-number-ii) |
 | [0279-perfect-squares](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/0279-perfect-squares) |
 | [0313-super-ugly-number](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/0313-super-ugly-number) |
+| [0322-coin-change](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/0322-coin-change) |
 | [0357-count-numbers-with-unique-digits](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/0357-count-numbers-with-unique-digits) |
 | [0396-rotate-function](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/0396-rotate-function) |
 | [0397-integer-replacement](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/0397-integer-replacement) |
@@ -1016,6 +1018,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0207-course-schedule](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/0210-course-schedule-ii) |
 | [0279-perfect-squares](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/0279-perfect-squares) |
+| [0322-coin-change](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/0322-coin-change) |
 | [0463-island-perimeter](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/0463-island-perimeter) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0695-max-area-of-island](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/0695-max-area-of-island) |
@@ -1358,4 +1361,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/3737-count-subarrays-with-majority-element-i) |
+## Knapsack Problem
+|  |
+| ------- |
+| [0322-coin-change](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/0322-coin-change) |
+## Complete Knapsack
+|  |
+| ------- |
+| [0322-coin-change](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/0322-coin-change) |
 <!---LeetCode Topics End-->
