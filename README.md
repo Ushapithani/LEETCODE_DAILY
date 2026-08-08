@@ -957,6 +957,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/0013-roman-to-integer) |
 | [0029-divide-two-integers](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/0029-divide-two-integers) |
 | [0048-rotate-image](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/0048-rotate-image) |
+| [0050-powx-n](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/0050-powx-n) |
 | [0060-permutation-sequence](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/0060-permutation-sequence) |
 | [0062-unique-paths](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/0062-unique-paths) |
 | [0067-add-binary](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/0067-add-binary) |
@@ -1073,6 +1074,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/0021-merge-two-sorted-lists) |
 | [0024-swap-nodes-in-pairs](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/0024-swap-nodes-in-pairs) |
+| [0050-powx-n](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/0050-powx-n) |
 | [0060-permutation-sequence](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/0060-permutation-sequence) |
 | [0241-different-ways-to-add-parentheses](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/0241-different-ways-to-add-parentheses) |
 | [0273-integer-to-english-words](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/0273-integer-to-english-words) |
