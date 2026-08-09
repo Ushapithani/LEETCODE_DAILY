@@ -1012,6 +1012,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [1512-number-of-good-pairs](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/1512-number-of-good-pairs) |
+| [1837-sum-of-digits-in-base-k](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/1837-sum-of-digits-in-base-k) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 | [2169-count-operations-to-obtain-zero](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/2169-count-operations-to-obtain-zero) |
