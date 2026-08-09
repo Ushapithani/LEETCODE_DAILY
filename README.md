@@ -224,6 +224,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2463-minimum-total-distance-traveled](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/2463-minimum-total-distance-traveled) |
 | [2496-maximum-value-of-a-string-in-an-array](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/2496-maximum-value-of-a-string-in-an-array) |
+| [2506-count-pairs-of-similar-strings](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/2506-count-pairs-of-similar-strings) |
 | [2540-minimum-common-value](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/2540-minimum-common-value) |
 | [2553-separate-the-digits-in-an-array](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/2553-separate-the-digits-in-an-array) |
 | [2574-left-and-right-sum-differences](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/2574-left-and-right-sum-differences) |
@@ -364,6 +365,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2418-sort-the-people](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/2418-sort-the-people) |
 | [2451-odd-string-difference](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/2451-odd-string-difference) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
+| [2506-count-pairs-of-similar-strings](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/2506-count-pairs-of-similar-strings) |
 | [2540-minimum-common-value](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/2540-minimum-common-value) |
 | [2615-sum-of-distances](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/2615-sum-of-distances) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
@@ -518,6 +520,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2451-odd-string-difference](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/2451-odd-string-difference) |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/2452-words-within-two-edits-of-dictionary) |
 | [2496-maximum-value-of-a-string-in-an-array](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/2496-maximum-value-of-a-string-in-an-array) |
+| [2506-count-pairs-of-similar-strings](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/2506-count-pairs-of-similar-strings) |
 | [2586-count-the-number-of-vowel-strings-in-range](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/2586-count-the-number-of-vowel-strings-in-range) |
 | [2645-minimum-additions-to-make-valid-string](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/2645-minimum-additions-to-make-valid-string) |
 | [2707-extra-characters-in-a-string](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/2707-extra-characters-in-a-string) |
@@ -569,6 +572,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2248-intersection-of-multiple-arrays](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/2248-intersection-of-multiple-arrays) |
 | [2351-first-letter-to-appear-twice](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/2351-first-letter-to-appear-twice) |
 | [2384-largest-palindromic-number](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/2384-largest-palindromic-number) |
+| [2506-count-pairs-of-similar-strings](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/2506-count-pairs-of-similar-strings) |
 | [2586-count-the-number-of-vowel-strings-in-range](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/2586-count-the-number-of-vowel-strings-in-range) |
 | [2748-number-of-beautiful-pairs](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/2748-number-of-beautiful-pairs) |
 | [2833-furthest-point-from-origin](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/2833-furthest-point-from-origin) |
@@ -1183,6 +1187,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1930-unique-length-3-palindromic-subsequences](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/1930-unique-length-3-palindromic-subsequences) |
 | [2032-two-out-of-three](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/2032-two-out-of-three) |
 | [2351-first-letter-to-appear-twice](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/2351-first-letter-to-appear-twice) |
+| [2506-count-pairs-of-similar-strings](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/2506-count-pairs-of-similar-strings) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 ## Design
 |  |
