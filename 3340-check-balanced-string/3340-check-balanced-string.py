@@ -1,12 +1,5 @@
 class Solution:
     def isBalanced(self, num: str) -> bool:
-        even = 0
-        odd = 0
-
-        for i, digit in enumerate(num):
-            if i % 2 == 0:
-                even += int(digit)
-            else:
-                odd += int(digit)
-
-        return even == odd
+        odd_sum = sum(map(int, num[1::2]))
+        even_sum = sum(map(int, num[::2]))
+        return odd_sum == even_sum
