@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0204-count-primes](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/0204-count-primes) |
 | [0209-minimum-size-subarray-sum](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/0209-minimum-size-subarray-sum) |
 | [0213-house-robber-ii](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/0213-house-robber-ii) |
+| [0217-contains-duplicate](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/0229-majority-element-ii) |
 | [0238-product-of-array-except-self](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/0238-product-of-array-except-self) |
 | [0283-move-zeroes](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/0283-move-zeroes) |
@@ -287,6 +288,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0160-intersection-of-two-linked-lists](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/0160-intersection-of-two-linked-lists) |
 | [0169-majority-element](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/0202-happy-number) |
+| [0217-contains-duplicate](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/0229-majority-element-ii) |
 | [0264-ugly-number-ii](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/0264-ugly-number-ii) |
 | [0290-word-pattern](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/0290-word-pattern) |
@@ -718,6 +720,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/0075-sort-colors) |
 | [0164-maximum-gap](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/0164-maximum-gap) |
 | [0169-majority-element](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/0169-majority-element) |
+| [0217-contains-duplicate](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/0229-majority-element-ii) |
 | [0347-top-k-frequent-elements](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/0349-intersection-of-two-arrays) |
