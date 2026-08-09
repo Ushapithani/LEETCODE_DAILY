@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0118-pascals-triangle](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/0118-pascals-triangle) |
 | [0120-triangle](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/0120-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0128-longest-consecutive-sequence](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/0128-longest-consecutive-sequence) |
 | [0135-candy](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/0135-candy) |
 | [0136-single-number](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/0136-single-number) |
 | [0139-word-break](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/0139-word-break) |
@@ -281,6 +282,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/0049-group-anagrams) |
 | [0073-set-matrix-zeroes](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/0073-set-matrix-zeroes) |
 | [0076-minimum-window-substring](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/0076-minimum-window-substring) |
+| [0128-longest-consecutive-sequence](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/0128-longest-consecutive-sequence) |
 | [0133-clone-graph](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/0133-clone-graph) |
 | [0139-word-break](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/0139-word-break) |
 | [0141-linked-list-cycle](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/0141-linked-list-cycle) |
@@ -1369,6 +1371,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Union-Find
 |  |
 | ------- |
+| [0128-longest-consecutive-sequence](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/0128-longest-consecutive-sequence) |
 | [0200-number-of-islands](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/0200-number-of-islands) |
 | [0695-max-area-of-island](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/0695-max-area-of-island) |
 | [0785-is-graph-bipartite](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/0785-is-graph-bipartite) |
