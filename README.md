@@ -539,6 +539,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3136-valid-word](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/3136-valid-word) |
 | [3174-clear-digits](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/3174-clear-digits) |
 | [3248-snake-in-matrix](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/3248-snake-in-matrix) |
+| [3340-check-balanced-string](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/3340-check-balanced-string) |
 | [3438-find-valid-pair-of-adjacent-digits-in-string](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/3438-find-valid-pair-of-adjacent-digits-in-string) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/3499-maximize-active-section-with-trade-i) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/3517-smallest-palindromic-rearrangement-i) |
