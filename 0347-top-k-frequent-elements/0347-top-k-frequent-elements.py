@@ -1,11 +1,17 @@
 class Solution:
     def topKFrequent(self, nums: list[int], k: int) -> list[int]:
         freq = {}
+
         for num in nums:
-            if num not in freq:
-                freq[num] = 0
-            freq[num] += 1
+            if num in freq:
+                freq[num] += 1
+            else:
+                freq[num] = 1
 
-        sorted_freq = sorted(freq, key=lambda x: freq[x], reverse=True)
+        result = []
 
-        return sorted_freq[:k]
+        for num, count in sorted(freq.items(), key=lambda x: x[1], reverse=True):
+            if len(result) < k:
+                result.append(num)
+
+        return result
