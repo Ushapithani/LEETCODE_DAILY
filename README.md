@@ -110,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0875-koko-eating-bananas](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/0875-koko-eating-bananas) |
 | [0888-fair-candy-swap](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/0888-fair-candy-swap) |
 | [0904-fruit-into-baskets](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/0904-fruit-into-baskets) |
+| [0905-sort-array-by-parity](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/0905-sort-array-by-parity) |
 | [0929-unique-email-addresses](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/0929-unique-email-addresses) |
 | [0930-binary-subarrays-with-sum](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/0930-binary-subarrays-with-sum) |
 | [0946-validate-stack-sequences](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/0946-validate-stack-sequences) |
@@ -655,6 +656,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0795-number-of-subarrays-with-bounded-maximum](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/0795-number-of-subarrays-with-bounded-maximum) |
 | [0826-most-profit-assigning-work](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/0826-most-profit-assigning-work) |
 | [0844-backspace-string-compare](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/0844-backspace-string-compare) |
+| [0905-sort-array-by-parity](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/0905-sort-array-by-parity) |
 | [0925-long-pressed-name](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/0925-long-pressed-name) |
 | [0986-interval-list-intersections](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/0986-interval-list-intersections) |
 | [1089-duplicate-zeros](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/1089-duplicate-zeros) |
@@ -761,6 +763,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0791-custom-sort-string](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/0791-custom-sort-string) |
 | [0826-most-profit-assigning-work](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/0826-most-profit-assigning-work) |
 | [0888-fair-candy-swap](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/0888-fair-candy-swap) |
+| [0905-sort-array-by-parity](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/0905-sort-array-by-parity) |
 | [0976-largest-perimeter-triangle](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/0976-largest-perimeter-triangle) |
 | [1005-maximize-sum-of-array-after-k-negations](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/1005-maximize-sum-of-array-after-k-negations) |
 | [1029-two-city-scheduling](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/1029-two-city-scheduling) |
