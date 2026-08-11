@@ -353,6 +353,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1805-number-of-different-integers-in-a-string](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/1805-number-of-different-integers-in-a-string) |
 | [1893-check-if-all-the-integers-in-a-range-are-covered](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/1893-check-if-all-the-integers-in-a-range-are-covered) |
 | [1930-unique-length-3-palindromic-subsequences](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/1930-unique-length-3-palindromic-subsequences) |
+| [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/1941-check-if-all-characters-have-equal-number-of-occurrences) |
 | [1980-find-unique-binary-string](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/1980-find-unique-binary-string) |
 | [1995-count-special-quadruplets](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/1995-count-special-quadruplets) |
 | [2032-two-out-of-three](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/2032-two-out-of-three) |
@@ -498,6 +499,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1880-check-if-word-equals-summation-of-two-words](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/1880-check-if-word-equals-summation-of-two-words) |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
 | [1930-unique-length-3-palindromic-subsequences](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/1930-unique-length-3-palindromic-subsequences) |
+| [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/1941-check-if-all-characters-have-equal-number-of-occurrences) |
 | [1945-sum-of-digits-of-string-after-convert](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/1945-sum-of-digits-of-string-after-convert) |
 | [1961-check-if-string-is-a-prefix-of-array](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/1961-check-if-string-is-a-prefix-of-array) |
 | [1963-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/1963-minimum-number-of-swaps-to-make-the-string-balanced) |
@@ -569,6 +571,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1704-determine-if-string-halves-are-alike](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/1704-determine-if-string-halves-are-alike) |
 | [1748-sum-of-unique-elements](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/1748-sum-of-unique-elements) |
 | [1790-check-if-one-string-swap-can-make-strings-equal](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/1790-check-if-one-string-swap-can-make-strings-equal) |
+| [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/1941-check-if-all-characters-have-equal-number-of-occurrences) |
 | [2053-kth-distinct-string-in-an-array](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/2053-kth-distinct-string-in-an-array) |
 | [2085-count-common-words-with-one-occurrence](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/2085-count-common-words-with-one-occurrence) |
 | [2131-longest-palindrome-by-concatenating-two-letter-words](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/2131-longest-palindrome-by-concatenating-two-letter-words) |
