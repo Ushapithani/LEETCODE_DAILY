@@ -427,6 +427,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/0387-first-unique-character-in-a-string) |
 | [0394-decode-string](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/0394-decode-string) |
 | [0412-fizz-buzz](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/0412-fizz-buzz) |
+| [0443-string-compression](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/0443-string-compression) |
 | [0451-sort-characters-by-frequency](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/0451-sort-characters-by-frequency) |
 | [0459-repeated-substring-pattern](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/0459-repeated-substring-pattern) |
 | [0482-license-key-formatting](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/0482-license-key-formatting) |
@@ -644,6 +645,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/0344-reverse-string) |
 | [0349-intersection-of-two-arrays](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0443-string-compression](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/0443-string-compression) |
 | [0455-assign-cookies](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/0455-assign-cookies) |
 | [0522-longest-uncommon-subsequence-ii](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/0522-longest-uncommon-subsequence-ii) |
 | [0524-longest-word-in-dictionary-through-deleting](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/0524-longest-word-in-dictionary-through-deleting) |
