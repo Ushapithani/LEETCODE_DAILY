@@ -219,6 +219,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2341-maximum-number-of-pairs-in-array](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/2341-maximum-number-of-pairs-in-array) |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
 | [2383-minimum-hours-of-training-to-win-a-competition](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/2383-minimum-hours-of-training-to-win-a-competition) |
+| [2404-most-frequent-even-element](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/2404-most-frequent-even-element) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/2410-maximum-matching-of-players-with-trainers) |
 | [2418-sort-the-people](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/2418-sort-the-people) |
 | [2435-paths-in-matrix-whose-sum-is-divisible-by-k](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/2435-paths-in-matrix-whose-sum-is-divisible-by-k) |
@@ -368,6 +369,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2351-first-letter-to-appear-twice](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/2351-first-letter-to-appear-twice) |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
 | [2384-largest-palindromic-number](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/2384-largest-palindromic-number) |
+| [2404-most-frequent-even-element](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/2404-most-frequent-even-element) |
 | [2418-sort-the-people](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/2418-sort-the-people) |
 | [2451-odd-string-difference](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/2451-odd-string-difference) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
@@ -584,6 +586,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2341-maximum-number-of-pairs-in-array](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/2341-maximum-number-of-pairs-in-array) |
 | [2351-first-letter-to-appear-twice](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/2351-first-letter-to-appear-twice) |
 | [2384-largest-palindromic-number](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/2384-largest-palindromic-number) |
+| [2404-most-frequent-even-element](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/2404-most-frequent-even-element) |
 | [2506-count-pairs-of-similar-strings](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/2506-count-pairs-of-similar-strings) |
 | [2586-count-the-number-of-vowel-strings-in-range](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/2586-count-the-number-of-vowel-strings-in-range) |
 | [2748-number-of-beautiful-pairs](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/2748-number-of-beautiful-pairs) |
