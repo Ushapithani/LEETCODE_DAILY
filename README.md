@@ -245,6 +245,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2770-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/2770-maximum-number-of-jumps-to-reach-the-last-index) |
 | [2784-check-if-array-is-good](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/2784-check-if-array-is-good) |
 | [2942-find-words-containing-character](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/2942-find-words-containing-character) |
+| [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2965-find-missing-and-repeated-values](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/2965-find-missing-and-repeated-values) |
 | [2967-minimum-cost-to-make-array-equalindromic](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/2967-minimum-cost-to-make-array-equalindromic) |
 | [2976-minimum-cost-to-convert-string-i](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/2976-minimum-cost-to-convert-string-i) |
@@ -382,6 +383,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2748-number-of-beautiful-pairs](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/2748-number-of-beautiful-pairs) |
 | [2784-check-if-array-is-good](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/2784-check-if-array-is-good) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
+| [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2965-find-missing-and-repeated-values](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/2965-find-missing-and-repeated-values) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
@@ -839,6 +841,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
+| [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3634-minimum-removals-to-balance-array](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/3634-minimum-removals-to-balance-array) |
 ## Binary Search
 |  |
