@@ -270,6 +270,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/3653-xor-after-range-multiplication-queries-i) |
 | [3668-restore-finishing-order](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/3668-restore-finishing-order) |
 | [3689-maximum-total-subarray-value-i](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/3689-maximum-total-subarray-value-i) |
+| [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 | [3719-longest-balanced-subarray-i](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/3719-longest-balanced-subarray-i) |
 | [3731-find-missing-elements](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/3731-find-missing-elements) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/3737-count-subarrays-with-majority-element-i) |
@@ -1226,6 +1227,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2351-first-letter-to-appear-twice](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/2351-first-letter-to-appear-twice) |
 | [2506-count-pairs-of-similar-strings](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/2506-count-pairs-of-similar-strings) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
+| [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 ## Design
 |  |
 | ------- |
