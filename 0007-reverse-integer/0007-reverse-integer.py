@@ -1,9 +1,21 @@
 class Solution:
     def reverse(self, x: int) -> int:
-        sign = -1 if x < 0 else 1
-        x = int(str(abs(x))[::-1])
-        x *= sign
+        if x < 0:
+            sign = -1
+        else:
+            sign = 1
 
-        if x < -2**31 or x > 2**31 - 1:
+        x = abs(x)
+        rev = 0
+
+        while x > 0:
+            digit = x % 10
+            x //= 10
+            rev = rev * 10 + digit
+
+        rev = rev * sign
+
+        if rev < -2**31 or rev > 2**31 - 1:
             return 0
-        return x
+
+        return rev
