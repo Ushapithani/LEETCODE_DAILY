@@ -1536,4 +1536,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Floyd's Cycle Finding Algorithm
+|  |
+| ------- |
+| [0202-happy-number](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/0202-happy-number) |
 <!---LeetCode Topics End-->
