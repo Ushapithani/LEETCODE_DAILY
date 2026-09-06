@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/0209-minimum-size-subarray-sum) |
 | [0213-house-robber-ii](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/0213-house-robber-ii) |
 | [0217-contains-duplicate](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/0217-contains-duplicate) |
+| [0219-contains-duplicate-ii](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/0219-contains-duplicate-ii) |
 | [0229-majority-element-ii](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/0229-majority-element-ii) |
 | [0238-product-of-array-except-self](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/0238-product-of-array-except-self) |
 | [0283-move-zeroes](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/0283-move-zeroes) |
@@ -307,6 +308,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/0202-happy-number) |
 | [0217-contains-duplicate](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/0217-contains-duplicate) |
+| [0219-contains-duplicate-ii](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/0219-contains-duplicate-ii) |
 | [0229-majority-element-ii](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/0242-valid-anagram) |
 | [0264-ugly-number-ii](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/0264-ugly-number-ii) |
@@ -858,6 +860,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0076-minimum-window-substring](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/0076-minimum-window-substring) |
 | [0209-minimum-size-subarray-sum](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/0209-minimum-size-subarray-sum) |
+| [0219-contains-duplicate-ii](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/0219-contains-duplicate-ii) |
 | [0713-subarray-product-less-than-k](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/0713-subarray-product-less-than-k) |
 | [0904-fruit-into-baskets](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/0904-fruit-into-baskets) |
 | [0930-binary-subarrays-with-sum](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/0930-binary-subarrays-with-sum) |
