@@ -261,6 +261,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
+| [3232-find-if-digit-game-can-be-won](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/3232-find-if-digit-game-can-be-won) |
 | [3248-snake-in-matrix](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/3248-snake-in-matrix) |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
@@ -1090,6 +1091,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2965-find-missing-and-repeated-values](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/2965-find-missing-and-repeated-values) |
 | [2967-minimum-cost-to-make-array-equalindromic](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/2967-minimum-cost-to-make-array-equalindromic) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
+| [3232-find-if-digit-game-can-be-won](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/3232-find-if-digit-game-can-be-won) |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/3345-smallest-divisible-digit-product-i) |
