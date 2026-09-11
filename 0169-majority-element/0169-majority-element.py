@@ -1,9 +1,9 @@
 class Solution:
     def majorityElement(self, nums):
-        count = {}
-
+        freq = {}
         for num in nums:
-            count[num] = count.get(num, 0) + 1
+            freq[num]=freq.get(num,0)+1
+            if freq[num] > len(nums)//2:
+                return num 
 
-            if count[num] > len(nums) // 2:
-                return num
+
