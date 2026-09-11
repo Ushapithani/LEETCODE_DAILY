@@ -208,6 +208,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2057-smallest-index-with-equal-value](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/2057-smallest-index-with-equal-value) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/2078-two-furthest-houses-with-different-colors) |
 | [2085-count-common-words-with-one-occurrence](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/2085-count-common-words-with-one-occurrence) |
+| [2094-finding-3-digit-even-numbers](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/2094-finding-3-digit-even-numbers) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2131-longest-palindrome-by-concatenating-two-letter-words](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/2131-longest-palindrome-by-concatenating-two-letter-words) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
@@ -374,6 +375,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2032-two-out-of-three](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/2032-two-out-of-three) |
 | [2053-kth-distinct-string-in-an-array](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/2053-kth-distinct-string-in-an-array) |
 | [2085-count-common-words-with-one-occurrence](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/2085-count-common-words-with-one-occurrence) |
+| [2094-finding-3-digit-even-numbers](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/2094-finding-3-digit-even-numbers) |
 | [2131-longest-palindrome-by-concatenating-two-letter-words](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/2131-longest-palindrome-by-concatenating-two-letter-words) |
 | [2186-minimum-number-of-steps-to-make-two-strings-anagram-ii](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/2186-minimum-number-of-steps-to-make-two-strings-anagram-ii) |
 | [2190-most-frequent-number-following-key-in-an-array](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/2190-most-frequent-number-following-key-in-an-array) |
@@ -832,6 +834,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 | [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
+| [2094-finding-3-digit-even-numbers](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/2094-finding-3-digit-even-numbers) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2148-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/2148-count-elements-with-strictly-smaller-and-greater-elements) |
 | [2248-intersection-of-multiple-arrays](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/2248-intersection-of-multiple-arrays) |
@@ -1011,6 +1014,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0204-count-primes](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/0204-count-primes) |
 | [1291-sequential-digits](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/1291-sequential-digits) |
 | [1995-count-special-quadruplets](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/1995-count-special-quadruplets) |
+| [2094-finding-3-digit-even-numbers](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/2094-finding-3-digit-even-numbers) |
 | [2259-remove-digit-from-number-to-maximize-result](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/2259-remove-digit-from-number-to-maximize-result) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
@@ -1162,6 +1166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0273-integer-to-english-words](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/0273-integer-to-english-words) |
 | [0394-decode-string](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/0394-decode-string) |
 | [0509-fibonacci-number](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/0509-fibonacci-number) |
+| [2094-finding-3-digit-even-numbers](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/2094-finding-3-digit-even-numbers) |
 | [3483-unique-3-digit-even-numbers](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/3483-unique-3-digit-even-numbers) |
 ## Simulation
 |  |
