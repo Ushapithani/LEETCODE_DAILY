@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/0229-majority-element-ii) |
 | [0238-product-of-array-except-self](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/0238-product-of-array-except-self) |
 | [0283-move-zeroes](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/0283-move-zeroes) |
+| [0300-longest-increasing-subsequence](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/0300-longest-increasing-subsequence) |
 | [0313-super-ugly-number](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/0313-super-ugly-number) |
 | [0318-maximum-product-of-word-lengths](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/0318-maximum-product-of-word-lengths) |
 | [0322-coin-change](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/0322-coin-change) |
@@ -890,6 +891,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/0209-minimum-size-subarray-sum) |
+| [0300-longest-increasing-subsequence](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/0300-longest-increasing-subsequence) |
 | [0349-intersection-of-two-arrays](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0374-guess-number-higher-or-lower](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/0374-guess-number-higher-or-lower) |
@@ -968,6 +970,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0241-different-ways-to-add-parentheses](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/0241-different-ways-to-add-parentheses) |
 | [0264-ugly-number-ii](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/0264-ugly-number-ii) |
 | [0279-perfect-squares](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/0279-perfect-squares) |
+| [0300-longest-increasing-subsequence](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/0300-longest-increasing-subsequence) |
 | [0313-super-ugly-number](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/0313-super-ugly-number) |
 | [0322-coin-change](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/0322-coin-change) |
 | [0357-count-numbers-with-unique-digits](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/0357-count-numbers-with-unique-digits) |
@@ -1580,4 +1583,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/0169-majority-element) |
+## Longest Increasing Subsequence
+|  |
+| ------- |
+| [0300-longest-increasing-subsequence](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/0300-longest-increasing-subsequence) |
 <!---LeetCode Topics End-->
