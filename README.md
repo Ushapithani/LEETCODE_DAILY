@@ -1145,6 +1145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0226-invert-binary-tree](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/0226-invert-binary-tree) |
 | [0279-perfect-squares](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/0279-perfect-squares) |
 | [0322-coin-change](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/0322-coin-change) |
+| [0404-sum-of-left-leaves](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/0404-sum-of-left-leaves) |
 | [0463-island-perimeter](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/0463-island-perimeter) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0695-max-area-of-island](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/0695-max-area-of-island) |
@@ -1330,6 +1331,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0144-binary-tree-preorder-traversal](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/0144-binary-tree-preorder-traversal) |
 | [0226-invert-binary-tree](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/0226-invert-binary-tree) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+| [0404-sum-of-left-leaves](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/0404-sum-of-left-leaves) |
 | [0543-diameter-of-binary-tree](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/0543-diameter-of-binary-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [1376-time-needed-to-inform-all-employees](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/1376-time-needed-to-inform-all-employees) |
@@ -1350,6 +1352,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0210-course-schedule-ii](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/0210-course-schedule-ii) |
 | [0226-invert-binary-tree](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/0226-invert-binary-tree) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+| [0404-sum-of-left-leaves](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/0404-sum-of-left-leaves) |
 | [0463-island-perimeter](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/0463-island-perimeter) |
 | [0543-diameter-of-binary-tree](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/0543-diameter-of-binary-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/0653-two-sum-iv-input-is-a-bst) |
@@ -1379,6 +1382,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0144-binary-tree-preorder-traversal](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/0144-binary-tree-preorder-traversal) |
 | [0226-invert-binary-tree](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/0226-invert-binary-tree) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+| [0404-sum-of-left-leaves](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/0404-sum-of-left-leaves) |
 | [0543-diameter-of-binary-tree](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/0543-diameter-of-binary-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [1382-balance-a-binary-search-tree](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/1382-balance-a-binary-search-tree) |
