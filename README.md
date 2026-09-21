@@ -1018,6 +1018,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0207-course-schedule](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/0210-course-schedule-ii) |
 | [0785-is-graph-bipartite](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/0785-is-graph-bipartite) |
+| [0841-keys-and-rooms](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/0841-keys-and-rooms) |
 | [0997-find-the-town-judge](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/0997-find-the-town-judge) |
 | [1791-find-center-of-star-graph](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/1791-find-center-of-star-graph) |
 | [1971-find-if-path-exists-in-graph](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/1971-find-if-path-exists-in-graph) |
@@ -1156,6 +1157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0695-max-area-of-island](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/0733-flood-fill) |
 | [0785-is-graph-bipartite](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/0785-is-graph-bipartite) |
+| [0841-keys-and-rooms](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/0841-keys-and-rooms) |
 | [1376-time-needed-to-inform-all-employees](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/1376-time-needed-to-inform-all-employees) |
 | [1971-find-if-path-exists-in-graph](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/1971-find-if-path-exists-in-graph) |
 | [3015-count-the-number-of-houses-at-a-certain-distance-i](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/3015-count-the-number-of-houses-at-a-certain-distance-i) |
@@ -1370,6 +1372,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0695-max-area-of-island](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/0733-flood-fill) |
 | [0785-is-graph-bipartite](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/0785-is-graph-bipartite) |
+| [0841-keys-and-rooms](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/0841-keys-and-rooms) |
 | [1376-time-needed-to-inform-all-employees](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/1376-time-needed-to-inform-all-employees) |
 | [1382-balance-a-binary-search-tree](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/1382-balance-a-binary-search-tree) |
 | [1971-find-if-path-exists-in-graph](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/1971-find-if-path-exists-in-graph) |
