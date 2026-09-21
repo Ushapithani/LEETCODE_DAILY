@@ -1019,6 +1019,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0210-course-schedule-ii](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/0210-course-schedule-ii) |
 | [0785-is-graph-bipartite](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/0785-is-graph-bipartite) |
 | [0997-find-the-town-judge](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/0997-find-the-town-judge) |
+| [1791-find-center-of-star-graph](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/1791-find-center-of-star-graph) |
 | [1971-find-if-path-exists-in-graph](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/1971-find-if-path-exists-in-graph) |
 | [2976-minimum-cost-to-convert-string-i](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/2976-minimum-cost-to-convert-string-i) |
 | [3015-count-the-number-of-houses-at-a-certain-distance-i](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/3015-count-the-number-of-houses-at-a-certain-distance-i) |
