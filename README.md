@@ -242,6 +242,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2553-separate-the-digits-in-an-array](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/2553-separate-the-digits-in-an-array) |
 | [2574-left-and-right-sum-differences](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/2574-left-and-right-sum-differences) |
 | [2586-count-the-number-of-vowel-strings-in-range](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/2586-count-the-number-of-vowel-strings-in-range) |
+| [2605-form-smallest-number-from-two-digit-arrays](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/2605-form-smallest-number-from-two-digit-arrays) |
 | [2607-make-k-subarray-sums-equal](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/2607-make-k-subarray-sums-equal) |
 | [2615-sum-of-distances](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/2615-sum-of-distances) |
 | [2616-minimize-the-maximum-difference-of-pairs](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/2616-minimize-the-maximum-difference-of-pairs) |
@@ -396,6 +397,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2506-count-pairs-of-similar-strings](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/2506-count-pairs-of-similar-strings) |
 | [2540-minimum-common-value](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/2540-minimum-common-value) |
+| [2605-form-smallest-number-from-two-digit-arrays](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/2605-form-smallest-number-from-two-digit-arrays) |
 | [2615-sum-of-distances](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/2615-sum-of-distances) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [2707-extra-characters-in-a-string](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/2707-extra-characters-in-a-string) |
@@ -1036,6 +1038,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1995-count-special-quadruplets](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/1995-count-special-quadruplets) |
 | [2094-finding-3-digit-even-numbers](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/2094-finding-3-digit-even-numbers) |
 | [2259-remove-digit-from-number-to-maximize-result](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/2259-remove-digit-from-number-to-maximize-result) |
+| [2605-form-smallest-number-from-two-digit-arrays](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/2605-form-smallest-number-from-two-digit-arrays) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/3345-smallest-divisible-digit-product-i) |
