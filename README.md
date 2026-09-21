@@ -1527,6 +1527,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0183-customers-who-never-order](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/0183-customers-who-never-order) |
 | [0570-managers-with-at-least-5-direct-reports](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/0570-managers-with-at-least-5-direct-reports) |
 | [0584-find-customer-referee](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/0584-find-customer-referee) |
+| [0586-customer-placing-the-largest-number-of-orders](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/0586-customer-placing-the-largest-number-of-orders) |
 ## Counting Sort
 |  |
 | ------- |
