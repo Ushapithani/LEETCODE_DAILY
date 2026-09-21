@@ -253,6 +253,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2744-find-maximum-number-of-string-pairs](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/2744-find-maximum-number-of-string-pairs) |
 | [2748-number-of-beautiful-pairs](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/2748-number-of-beautiful-pairs) |
 | [2770-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/2770-maximum-number-of-jumps-to-reach-the-last-index) |
+| [2778-sum-of-squares-of-special-elements](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2784-check-if-array-is-good](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/2784-check-if-array-is-good) |
 | [2942-find-words-containing-character](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/2942-find-words-containing-character) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
@@ -1039,6 +1040,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2094-finding-3-digit-even-numbers](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/2094-finding-3-digit-even-numbers) |
 | [2259-remove-digit-from-number-to-maximize-result](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/2259-remove-digit-from-number-to-maximize-result) |
 | [2605-form-smallest-number-from-two-digit-arrays](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/2605-form-smallest-number-from-two-digit-arrays) |
+| [2778-sum-of-squares-of-special-elements](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/2778-sum-of-squares-of-special-elements) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/3345-smallest-divisible-digit-product-i) |
