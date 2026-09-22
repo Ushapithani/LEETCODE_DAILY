@@ -298,6 +298,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 | [3875-construct-uniform-parity-array-i](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/3875-construct-uniform-parity-array-i) |
 | [3903-smallest-stable-index-i](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/3903-smallest-stable-index-i) |
+| [4010-maximize-pair-strength-using-gcd](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/4010-maximize-pair-strength-using-gcd) |
 ## Hash Table
 |  |
 | ------- |
@@ -1061,6 +1062,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3713-longest-balanced-substring-i](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/3713-longest-balanced-substring-i) |
 | [3745-maximize-expression-of-three-elements](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/3745-maximize-expression-of-three-elements) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/3751-total-waviness-of-numbers-in-range-i) |
+| [4010-maximize-pair-strength-using-gcd](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/4010-maximize-pair-strength-using-gcd) |
 ## Math
 |  |
 | ------- |
@@ -1146,6 +1148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3870-count-commas-in-range](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/3870-count-commas-in-range) |
 | [3871-count-commas-in-range-ii](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/3871-count-commas-in-range-ii) |
 | [3875-construct-uniform-parity-array-i](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/3875-construct-uniform-parity-array-i) |
+| [4010-maximize-pair-strength-using-gcd](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/4010-maximize-pair-strength-using-gcd) |
 ## Brainteaser
 |  |
 | ------- |
@@ -1459,6 +1462,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3411-maximum-subarray-with-equal-products](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/3867-sum-of-gcd-of-formed-pairs) |
+| [4010-maximize-pair-strength-using-gcd](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/4010-maximize-pair-strength-using-gcd) |
 ## Backtracking
 |  |
 | ------- |
