@@ -1643,6 +1643,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0032-longest-valid-parentheses](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/0032-longest-valid-parentheses) |
 | [1021-remove-outermost-parentheses](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/1021-remove-outermost-parentheses) |
+| [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 ## Binary Lifting
 |  |
 | ------- |
