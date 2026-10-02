@@ -447,6 +447,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/0014-longest-common-prefix) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0020-valid-parentheses](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/0020-valid-parentheses) |
+| [0022-generate-parentheses](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/0022-generate-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0032-longest-valid-parentheses](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/0032-longest-valid-parentheses) |
 | [0038-count-and-say](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/0038-count-and-say) |
@@ -987,6 +988,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/0032-longest-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/0053-maximum-subarray) |
@@ -1483,6 +1485,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0022-generate-parentheses](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/0022-generate-parentheses) |
 | [0078-subsets](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/0079-word-search) |
 | [0093-restore-ip-addresses](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/0093-restore-ip-addresses) |
@@ -1655,6 +1658,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bracket Sequences
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/0032-longest-valid-parentheses) |
 | [1021-remove-outermost-parentheses](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/1021-remove-outermost-parentheses) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
