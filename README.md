@@ -1131,6 +1131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1071-greatest-common-divisor-of-strings](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1137-n-th-tribonacci-number](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/1137-n-th-tribonacci-number) |
 | [1154-day-of-the-year](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/1154-day-of-the-year) |
+| [1175-prime-arrangements](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/1175-prime-arrangements) |
 | [1185-day-of-the-week](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/1185-day-of-the-week) |
 | [1217-minimum-cost-to-move-chips-to-the-same-position](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/1217-minimum-cost-to-move-chips-to-the-same-position) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/1248-count-number-of-nice-subarrays) |
@@ -1715,4 +1716,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3042-count-prefix-and-suffix-pairs-i](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/3042-count-prefix-and-suffix-pairs-i) |
+## Primality Test
+|  |
+| ------- |
+| [1175-prime-arrangements](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/1175-prime-arrangements) |
+## Sieve Theory
+|  |
+| ------- |
+| [1175-prime-arrangements](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/1175-prime-arrangements) |
+## Prime Number Sieve
+|  |
+| ------- |
+| [1175-prime-arrangements](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/1175-prime-arrangements) |
 <!---LeetCode Topics End-->
