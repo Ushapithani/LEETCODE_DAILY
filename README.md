@@ -1731,4 +1731,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1175-prime-arrangements](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/1175-prime-arrangements) |
+## Euclidean Algorithm
+|  |
+| ------- |
+| [1071-greatest-common-divisor-of-strings](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/1071-greatest-common-divisor-of-strings) |
+## Greatest Common Divisor
+|  |
+| ------- |
+| [1071-greatest-common-divisor-of-strings](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/1071-greatest-common-divisor-of-strings) |
 <!---LeetCode Topics End-->
