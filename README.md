@@ -1416,6 +1416,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0501-find-mode-in-binary-search-tree](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/0501-find-mode-in-binary-search-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/0543-diameter-of-binary-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [0872-leaf-similar-trees](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/0872-leaf-similar-trees) |
 | [1376-time-needed-to-inform-all-employees](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/1376-time-needed-to-inform-all-employees) |
 | [1382-balance-a-binary-search-tree](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/1382-balance-a-binary-search-tree) |
 ## Depth-First Search
@@ -1446,6 +1447,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0733-flood-fill](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/0733-flood-fill) |
 | [0785-is-graph-bipartite](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/0785-is-graph-bipartite) |
 | [0841-keys-and-rooms](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/0841-keys-and-rooms) |
+| [0872-leaf-similar-trees](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/0872-leaf-similar-trees) |
 | [1376-time-needed-to-inform-all-employees](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/1376-time-needed-to-inform-all-employees) |
 | [1382-balance-a-binary-search-tree](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/1382-balance-a-binary-search-tree) |
 | [1971-find-if-path-exists-in-graph](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/1971-find-if-path-exists-in-graph) |
@@ -1474,6 +1476,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0501-find-mode-in-binary-search-tree](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/0501-find-mode-in-binary-search-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/0543-diameter-of-binary-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [0872-leaf-similar-trees](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/0872-leaf-similar-trees) |
 | [1382-balance-a-binary-search-tree](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/1382-balance-a-binary-search-tree) |
 ## Bucket Sort
 |  |
