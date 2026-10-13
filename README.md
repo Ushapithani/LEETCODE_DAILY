@@ -1151,6 +1151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1360-number-of-days-between-two-dates](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/1360-number-of-days-between-two-dates) |
 | [1399-count-largest-group](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/1399-count-largest-group) |
 | [1512-number-of-good-pairs](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/1512-number-of-good-pairs) |
+| [1716-calculate-money-in-leetcode-bank](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/1716-calculate-money-in-leetcode-bank) |
 | [1837-sum-of-digits-in-base-k](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/1837-sum-of-digits-in-base-k) |
 | [1903-largest-odd-number-in-string](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/1903-largest-odd-number-in-string) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/1979-find-greatest-common-divisor-of-array) |
