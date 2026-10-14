@@ -242,6 +242,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2496-maximum-value-of-a-string-in-an-array](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/2496-maximum-value-of-a-string-in-an-array) |
 | [2506-count-pairs-of-similar-strings](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/2506-count-pairs-of-similar-strings) |
 | [2540-minimum-common-value](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/2540-minimum-common-value) |
+| [2549-count-distinct-numbers-on-board](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/2549-count-distinct-numbers-on-board) |
 | [2553-separate-the-digits-in-an-array](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/2553-separate-the-digits-in-an-array) |
 | [2574-left-and-right-sum-differences](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/2574-left-and-right-sum-differences) |
 | [2586-count-the-number-of-vowel-strings-in-range](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/2586-count-the-number-of-vowel-strings-in-range) |
@@ -414,6 +415,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2506-count-pairs-of-similar-strings](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/2506-count-pairs-of-similar-strings) |
 | [2540-minimum-common-value](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/2540-minimum-common-value) |
+| [2549-count-distinct-numbers-on-board](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/2549-count-distinct-numbers-on-board) |
 | [2605-form-smallest-number-from-two-digit-arrays](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/2605-form-smallest-number-from-two-digit-arrays) |
 | [2615-sum-of-distances](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/2615-sum-of-distances) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
@@ -1163,6 +1165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2469-convert-the-temperature](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/2469-convert-the-temperature) |
 | [2485-find-the-pivot-integer](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/2485-find-the-pivot-integer) |
 | [2520-count-the-digits-that-divide-a-number](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/2520-count-the-digits-that-divide-a-number) |
+| [2549-count-distinct-numbers-on-board](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/2549-count-distinct-numbers-on-board) |
 | [2607-make-k-subarray-sums-equal](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/2607-make-k-subarray-sums-equal) |
 | [2748-number-of-beautiful-pairs](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/2748-number-of-beautiful-pairs) |
 | [2843-count-symmetric-integers](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/2843-count-symmetric-integers) |
@@ -1285,6 +1288,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2169-count-operations-to-obtain-zero](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/2169-count-operations-to-obtain-zero) |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
 | [2390-removing-stars-from-a-string](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/2390-removing-stars-from-a-string) |
+| [2549-count-distinct-numbers-on-board](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/2549-count-distinct-numbers-on-board) |
 | [2553-separate-the-digits-in-an-array](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/2553-separate-the-digits-in-an-array) |
 | [2744-find-maximum-number-of-string-pairs](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/2744-find-maximum-number-of-string-pairs) |
 | [3028-ant-on-the-boundary](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/3028-ant-on-the-boundary) |
