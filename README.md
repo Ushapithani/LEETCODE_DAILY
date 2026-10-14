@@ -405,6 +405,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2186-minimum-number-of-steps-to-make-two-strings-anagram-ii](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/2186-minimum-number-of-steps-to-make-two-strings-anagram-ii) |
 | [2190-most-frequent-number-following-key-in-an-array](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/2190-most-frequent-number-following-key-in-an-array) |
 | [2248-intersection-of-multiple-arrays](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/2248-intersection-of-multiple-arrays) |
+| [2336-smallest-number-in-infinite-set](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/2336-smallest-number-in-infinite-set) |
 | [2341-maximum-number-of-pairs-in-array](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/2341-maximum-number-of-pairs-in-array) |
 | [2351-first-letter-to-appear-twice](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/2351-first-letter-to-appear-twice) |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
@@ -1387,6 +1388,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0706-design-hashmap](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/0706-design-hashmap) |
 | [0715-range-module](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/0715-range-module) |
 | [0933-number-of-recent-calls](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/0933-number-of-recent-calls) |
+| [2336-smallest-number-in-infinite-set](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/2336-smallest-number-in-infinite-set) |
 ## Hash Function
 |  |
 | ------- |
@@ -1517,6 +1519,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1268-search-suggestions-system](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/1268-search-suggestions-system) |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [2336-smallest-number-in-infinite-set](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/2336-smallest-number-in-infinite-set) |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
 ## Number Theory
 |  |
@@ -1574,6 +1577,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0715-range-module](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/0715-range-module) |
+| [2336-smallest-number-in-infinite-set](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/2336-smallest-number-in-infinite-set) |
 | [2363-merge-similar-items](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/2363-merge-similar-items) |
 ## Interactive
 |  |
