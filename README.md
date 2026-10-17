@@ -545,6 +545,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1436-destination-city](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/1436-destination-city) |
 | [1455-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/1455-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
+| [1507-reformat-date](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/1507-reformat-date) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [1544-make-the-string-great](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/1544-make-the-string-great) |
 | [1598-crawler-log-folder](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/1598-crawler-log-folder) |
