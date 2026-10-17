@@ -286,6 +286,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3483-unique-3-digit-even-numbers](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/3483-unique-3-digit-even-numbers) |
 | [3488-closest-equal-element-queries](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/3488-closest-equal-element-queries) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
+| [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 | [3627-maximum-median-sum-of-subsequences-of-size-3](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/3627-maximum-median-sum-of-subsequences-of-size-3) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3634-minimum-removals-to-balance-array](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/3634-minimum-removals-to-balance-array) |
@@ -442,6 +443,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3471-find-the-largest-almost-missing-integer](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3483-unique-3-digit-even-numbers](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/3483-unique-3-digit-even-numbers) |
 | [3488-closest-equal-element-queries](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/3488-closest-equal-element-queries) |
+| [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 | [3668-restore-finishing-order](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/3668-restore-finishing-order) |
 | [3713-longest-balanced-substring-i](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/3713-longest-balanced-substring-i) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/3718-smallest-missing-multiple-of-k) |
@@ -921,6 +923,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/3536-maximum-product-of-two-digits) |
+| [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 | [3627-maximum-median-sum-of-subsequences-of-size-3](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/3627-maximum-median-sum-of-subsequences-of-size-3) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3634-minimum-removals-to-balance-array](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/3634-minimum-removals-to-balance-array) |
