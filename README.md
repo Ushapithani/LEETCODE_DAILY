@@ -281,6 +281,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
+| [3184-count-pairs-that-form-a-complete-day-i](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/3184-count-pairs-that-form-a-complete-day-i) |
 | [3194-minimum-average-of-smallest-and-largest-elements](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/3194-minimum-average-of-smallest-and-largest-elements) |
 | [3232-find-if-digit-game-can-be-won](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/3232-find-if-digit-game-can-be-won) |
 | [3248-snake-in-matrix](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/3248-snake-in-matrix) |
@@ -448,6 +449,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/3121-count-the-number-of-special-characters-ii) |
+| [3184-count-pairs-that-form-a-complete-day-i](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/3184-count-pairs-that-form-a-complete-day-i) |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
 | [3438-find-valid-pair-of-adjacent-digits-in-string](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/3438-find-valid-pair-of-adjacent-digits-in-string) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/3471-find-the-largest-almost-missing-integer) |
@@ -681,6 +683,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2586-count-the-number-of-vowel-strings-in-range](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/2586-count-the-number-of-vowel-strings-in-range) |
 | [2748-number-of-beautiful-pairs](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/2748-number-of-beautiful-pairs) |
 | [2833-furthest-point-from-origin](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/2833-furthest-point-from-origin) |
+| [3184-count-pairs-that-form-a-complete-day-i](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/3184-count-pairs-that-form-a-complete-day-i) |
 | [3438-find-valid-pair-of-adjacent-digits-in-string](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/3438-find-valid-pair-of-adjacent-digits-in-string) |
 | [3713-longest-balanced-substring-i](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/3713-longest-balanced-substring-i) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/3737-count-subarrays-with-majority-element-i) |
