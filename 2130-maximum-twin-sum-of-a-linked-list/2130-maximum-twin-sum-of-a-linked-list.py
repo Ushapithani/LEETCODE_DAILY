@@ -1,27 +1,16 @@
 class Solution:
-    def pairSum(self, head):
-        slow = fast = head
-
-        while fast and fast.next:
-            slow = slow.next
-            fast = fast.next.next
-
-        prev = None
-        curr = slow
-
-        while curr:
-            nxt = curr.next
-            curr.next = prev
-            prev = curr
-            curr = nxt
-
-        first = head
-        second = prev
+    def pairSum(self, head: Optional[ListNode]) -> int:
+        mp = {}
+        idx = 0
+        temp = head
+        
+        while temp:
+            mp[idx] = temp.val
+            idx += 1
+            temp = temp.next
+            
         ans = 0
-
-        while second:
-            ans = max(ans, first.val + second.val)
-            first = first.next
-            second = second.next
-
+        for i in range(idx // 2):
+            ans = max(ans, mp[i] + mp[idx - 1 - i])
+            
         return ans
