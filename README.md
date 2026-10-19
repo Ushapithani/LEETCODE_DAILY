@@ -263,6 +263,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2770-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/2770-maximum-number-of-jumps-to-reach-the-last-index) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2784-check-if-array-is-good](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/2784-check-if-array-is-good) |
+| [2815-max-pair-sum-in-an-array](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/2815-max-pair-sum-in-an-array) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2942-find-words-containing-character](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/2942-find-words-containing-character) |
@@ -433,6 +434,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2744-find-maximum-number-of-string-pairs](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/2744-find-maximum-number-of-string-pairs) |
 | [2748-number-of-beautiful-pairs](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/2748-number-of-beautiful-pairs) |
 | [2784-check-if-array-is-good](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/2784-check-if-array-is-good) |
+| [2815-max-pair-sum-in-an-array](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/2815-max-pair-sum-in-an-array) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
