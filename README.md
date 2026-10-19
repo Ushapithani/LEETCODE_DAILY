@@ -179,6 +179,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1679-max-number-of-k-sum-pairs](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/1679-max-number-of-k-sum-pairs) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/1684-count-the-number-of-consistent-strings) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/1700-number-of-students-unable-to-eat-lunch) |
+| [1710-maximum-units-on-a-truck](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/1710-maximum-units-on-a-truck) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [1748-sum-of-unique-elements](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/1748-sum-of-unique-elements) |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
@@ -806,6 +807,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1386-cinema-seat-allocation](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/1386-cinema-seat-allocation) |
 | [1403-minimum-subsequence-in-non-increasing-order](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/1403-minimum-subsequence-in-non-increasing-order) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
+| [1710-maximum-units-on-a-truck](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/1710-maximum-units-on-a-truck) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [1833-maximum-ice-cream-bars](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/1833-maximum-ice-cream-bars) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
@@ -896,6 +898,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1636-sort-array-by-increasing-frequency](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/1636-sort-array-by-increasing-frequency) |
 | [1657-determine-if-two-strings-are-close](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/1657-determine-if-two-strings-are-close) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/1679-max-number-of-k-sum-pairs) |
+| [1710-maximum-units-on-a-truck](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/1710-maximum-units-on-a-truck) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [1833-maximum-ice-cream-bars](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/1833-maximum-ice-cream-bars) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
