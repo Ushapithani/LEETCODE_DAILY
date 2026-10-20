@@ -516,6 +516,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0524-longest-word-in-dictionary-through-deleting](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/0524-longest-word-in-dictionary-through-deleting) |
 | [0551-student-attendance-record-i](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/0551-student-attendance-record-i) |
 | [0648-replace-words](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/0648-replace-words) |
+| [0649-dota2-senate](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/0649-dota2-senate) |
 | [0657-robot-return-to-origin](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/0657-robot-return-to-origin) |
 | [0676-implement-magic-dictionary](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/0676-implement-magic-dictionary) |
 | [0678-valid-parenthesis-string](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/0678-valid-parenthesis-string) |
@@ -807,6 +808,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0561-array-partition](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/0561-array-partition) |
 | [0605-can-place-flowers](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/0605-can-place-flowers) |
 | [0611-valid-triangle-number](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/0611-valid-triangle-number) |
+| [0649-dota2-senate](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/0649-dota2-senate) |
 | [0678-valid-parenthesis-string](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/0678-valid-parenthesis-string) |
 | [0680-valid-palindrome-ii](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/0680-valid-palindrome-ii) |
 | [0826-most-profit-assigning-work](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/0826-most-profit-assigning-work) |
@@ -1647,6 +1649,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0225-implement-stack-using-queues](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/0232-implement-queue-using-stacks) |
 | [0387-first-unique-character-in-a-string](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/0387-first-unique-character-in-a-string) |
+| [0649-dota2-senate](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/0649-dota2-senate) |
 | [0933-number-of-recent-calls](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/0933-number-of-recent-calls) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [2073-time-needed-to-buy-tickets](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/2073-time-needed-to-buy-tickets) |
