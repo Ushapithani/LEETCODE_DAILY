@@ -248,6 +248,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2496-maximum-value-of-a-string-in-an-array](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/2496-maximum-value-of-a-string-in-an-array) |
 | [2506-count-pairs-of-similar-strings](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/2506-count-pairs-of-similar-strings) |
 | [2540-minimum-common-value](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/2540-minimum-common-value) |
+| [2542-maximum-subsequence-score](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/2542-maximum-subsequence-score) |
 | [2549-count-distinct-numbers-on-board](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/2549-count-distinct-numbers-on-board) |
 | [2553-separate-the-digits-in-an-array](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/2553-separate-the-digits-in-an-array) |
 | [2562-find-the-array-concatenation-value](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/2562-find-the-array-concatenation-value) |
@@ -849,6 +850,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2383-minimum-hours-of-training-to-win-a-competition](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/2383-minimum-hours-of-training-to-win-a-competition) |
 | [2384-largest-palindromic-number](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/2384-largest-palindromic-number) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/2410-maximum-matching-of-players-with-trainers) |
+| [2542-maximum-subsequence-score](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/2542-maximum-subsequence-score) |
 | [2566-maximum-difference-by-remapping-a-digit](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/2566-maximum-difference-by-remapping-a-digit) |
 | [2578-split-with-minimum-sum](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/2578-split-with-minimum-sum) |
 | [2607-make-k-subarray-sums-equal](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/2607-make-k-subarray-sums-equal) |
@@ -943,6 +945,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2418-sort-the-people](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/2418-sort-the-people) |
 | [2441-largest-positive-integer-that-exists-with-its-negative](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/2441-largest-positive-integer-that-exists-with-its-negative) |
 | [2463-minimum-total-distance-traveled](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/2463-minimum-total-distance-traveled) |
+| [2542-maximum-subsequence-score](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/2542-maximum-subsequence-score) |
 | [2578-split-with-minimum-sum](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/2578-split-with-minimum-sum) |
 | [2607-make-k-subarray-sums-equal](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/2607-make-k-subarray-sums-equal) |
 | [2616-minimize-the-maximum-difference-of-pairs](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/2616-minimize-the-maximum-difference-of-pairs) |
@@ -1581,6 +1584,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2231-largest-number-after-digit-swaps-by-parity](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/2231-largest-number-after-digit-swaps-by-parity) |
 | [2336-smallest-number-in-infinite-set](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/2336-smallest-number-in-infinite-set) |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
+| [2542-maximum-subsequence-score](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/2542-maximum-subsequence-score) |
 ## Number Theory
 |  |
 | ------- |
