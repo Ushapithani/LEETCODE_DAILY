@@ -234,6 +234,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2248-intersection-of-multiple-arrays](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/2248-intersection-of-multiple-arrays) |
 | [2255-count-prefixes-of-a-given-string](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/2255-count-prefixes-of-a-given-string) |
 | [2341-maximum-number-of-pairs-in-array](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/2341-maximum-number-of-pairs-in-array) |
+| [2352-equal-row-and-column-pairs](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/2352-equal-row-and-column-pairs) |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
 | [2363-merge-similar-items](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/2363-merge-similar-items) |
 | [2383-minimum-hours-of-training-to-win-a-competition](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/2383-minimum-hours-of-training-to-win-a-competition) |
@@ -425,6 +426,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2336-smallest-number-in-infinite-set](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/2336-smallest-number-in-infinite-set) |
 | [2341-maximum-number-of-pairs-in-array](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/2341-maximum-number-of-pairs-in-array) |
 | [2351-first-letter-to-appear-twice](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/2351-first-letter-to-appear-twice) |
+| [2352-equal-row-and-column-pairs](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/2352-equal-row-and-column-pairs) |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
 | [2363-merge-similar-items](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/2363-merge-similar-items) |
 | [2384-largest-palindromic-number](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/2384-largest-palindromic-number) |
@@ -1057,6 +1059,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [1901-find-a-peak-element-ii](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/1901-find-a-peak-element-ii) |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
+| [2352-equal-row-and-column-pairs](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/2352-equal-row-and-column-pairs) |
 | [2435-paths-in-matrix-whose-sum-is-divisible-by-k](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/2435-paths-in-matrix-whose-sum-is-divisible-by-k) |
 | [2965-find-missing-and-repeated-values](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/2965-find-missing-and-repeated-values) |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
@@ -1349,6 +1352,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2149-rearrange-array-elements-by-sign](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2169-count-operations-to-obtain-zero](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/2169-count-operations-to-obtain-zero) |
+| [2352-equal-row-and-column-pairs](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/2352-equal-row-and-column-pairs) |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
 | [2390-removing-stars-from-a-string](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/2390-removing-stars-from-a-string) |
 | [2549-count-distinct-numbers-on-board](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/2549-count-distinct-numbers-on-board) |
