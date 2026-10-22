@@ -200,6 +200,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1893-check-if-all-the-integers-in-a-range-are-covered](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/1893-check-if-all-the-integers-in-a-range-are-covered) |
 | [1901-find-a-peak-element-ii](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/1901-find-a-peak-element-ii) |
 | [1920-build-array-from-permutation](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/1920-build-array-from-permutation) |
+| [1926-nearest-exit-from-entrance-in-maze](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/1926-nearest-exit-from-entrance-in-maze) |
 | [1929-concatenation-of-array](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/1929-concatenation-of-array) |
 | [1961-check-if-string-is-a-prefix-of-array](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/1961-check-if-string-is-a-prefix-of-array) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
@@ -1058,6 +1059,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1861-rotating-the-box](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/1861-rotating-the-box) |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [1901-find-a-peak-element-ii](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/1901-find-a-peak-element-ii) |
+| [1926-nearest-exit-from-entrance-in-maze](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/1926-nearest-exit-from-entrance-in-maze) |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 | [2352-equal-row-and-column-pairs](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/2352-equal-row-and-column-pairs) |
 | [2435-paths-in-matrix-whose-sum-is-divisible-by-k](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/2435-paths-in-matrix-whose-sum-is-divisible-by-k) |
@@ -1290,6 +1292,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0841-keys-and-rooms](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/0841-keys-and-rooms) |
 | [1376-time-needed-to-inform-all-employees](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/1376-time-needed-to-inform-all-employees) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/1448-count-good-nodes-in-binary-tree) |
+| [1926-nearest-exit-from-entrance-in-maze](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/1926-nearest-exit-from-entrance-in-maze) |
 | [1971-find-if-path-exists-in-graph](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/1971-find-if-path-exists-in-graph) |
 | [3015-count-the-number-of-houses-at-a-certain-distance-i](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/3015-count-the-number-of-houses-at-a-certain-distance-i) |
 ## Linked List
