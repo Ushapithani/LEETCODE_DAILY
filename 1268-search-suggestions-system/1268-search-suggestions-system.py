@@ -1,15 +1,20 @@
 class Solution:
-    def suggestedProducts(self, products: List[str], searchWord: str) -> List[List[str]]:
+    def suggestedProducts(self, products: list[str], searchWord: str) -> list[list[str]]:
         products.sort()
         result = []
-        for i in range(1 , len(searchWord)+1):
-            prefix = searchWord[:i]
+        prefix = ""
+
+        for ch in searchWord:
+            prefix += ch
             suggestions = []
+
             for product in products:
                 if product.startswith(prefix):
                     suggestions.append(product)
-                if len(suggestions) == 3 :
-                    break 
+
+                if len(suggestions) == 3:
+                    break
+
             result.append(suggestions)
+
         return result
-        
