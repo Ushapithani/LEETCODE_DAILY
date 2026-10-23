@@ -1093,6 +1093,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0300-longest-increasing-subsequence](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/0300-longest-increasing-subsequence) |
 | [0313-super-ugly-number](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/0313-super-ugly-number) |
 | [0322-coin-change](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/0322-coin-change) |
+| [0338-counting-bits](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/0338-counting-bits) |
 | [0357-count-numbers-with-unique-digits](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/0357-count-numbers-with-unique-digits) |
 | [0396-rotate-function](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/0396-rotate-function) |
 | [0397-integer-replacement](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/0397-integer-replacement) |
@@ -1425,6 +1426,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0078-subsets](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/0078-subsets) |
 | [0136-single-number](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/0136-single-number) |
 | [0318-maximum-product-of-word-lengths](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/0318-maximum-product-of-word-lengths) |
+| [0338-counting-bits](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/0338-counting-bits) |
 | [0397-integer-replacement](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/0397-integer-replacement) |
 | [0401-binary-watch](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/0401-binary-watch) |
 | [0461-hamming-distance](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/0461-hamming-distance) |
