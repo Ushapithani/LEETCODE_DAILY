@@ -1,12 +1,18 @@
 class Solution:
     def findMinArrowShots(self, points: list[list[int]]) -> int:
-        points.sort(key=lambda x: x[0])
-        merged = [points[0]]
+        if not points:
+            return 0
 
-        for start, end in points[1:]:
-            if start <= merged[-1][1]:
-                merged[-1][1] = min(merged[-1][1], end)
-            else:
-                merged.append([start, end])
+        points.sort(key=lambda x: x[1])
 
-        return len(merged)
+        arrows = 1
+        arrow_position = points[0][1]
+
+        for i in range(1, len(points)):
+            start, end = points[i]
+
+            if start > arrow_position:
+                arrows += 1
+                arrow_position = end
+
+        return arrows
