@@ -1,17 +1,20 @@
-class Solution:
-    def deleteDuplicates(self, head: Optional[ListNode]) -> Optional[ListNode]:
-        dummy = ListNode(0)
-        dummy.next = head
-        prev = dummy
+class Solution(object):
+    def deleteDuplicates(self, head):
+        fake = ListNode(-1)
+        fake.next = head
+
+        prev = fake
         curr = head
 
         while curr:
-            if curr.next and curr.val == curr.next.val:
-                while curr.next and curr.val == curr.next.val:
-                    curr = curr.next
-                prev.next = curr.next
-            else:
-                prev = prev.next
-            curr = curr.next
+            while curr.next and curr.val == curr.next.val:
+                curr = curr.next
 
-        return dummy.next
+            if prev.next == curr:
+                prev = prev.next
+                curr = curr.next
+            else:
+                prev.next = curr.next
+                curr = prev.next
+
+        return fake.next
