@@ -623,6 +623,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2384-largest-palindromic-number](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/2384-largest-palindromic-number) |
 | [2390-removing-stars-from-a-string](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/2390-removing-stars-from-a-string) |
 | [2399-check-distances-between-same-letters](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/2399-check-distances-between-same-letters) |
+| [2409-count-days-spent-together](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/2409-count-days-spent-together) |
 | [2418-sort-the-people](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/2418-sort-the-people) |
 | [2451-odd-string-difference](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/2451-odd-string-difference) |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/2452-words-within-two-edits-of-dictionary) |
@@ -1226,6 +1227,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 | [2169-count-operations-to-obtain-zero](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/2169-count-operations-to-obtain-zero) |
 | [2235-add-two-integers](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/2235-add-two-integers) |
+| [2409-count-days-spent-together](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/2409-count-days-spent-together) |
 | [2469-convert-the-temperature](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/2469-convert-the-temperature) |
 | [2485-find-the-pivot-integer](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/2485-find-the-pivot-integer) |
 | [2520-count-the-digits-that-divide-a-number](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/2520-count-the-digits-that-divide-a-number) |
