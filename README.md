@@ -1325,6 +1325,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0160-intersection-of-two-linked-lists](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/0160-intersection-of-two-linked-lists) |
 | [0328-odd-even-linked-list](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/0328-odd-even-linked-list) |
 | [0706-design-hashmap](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/0706-design-hashmap) |
+| [0707-design-linked-list](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/0707-design-linked-list) |
 | [1669-merge-in-between-linked-lists](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/1669-merge-in-between-linked-lists) |
 | [1721-swapping-nodes-in-a-linked-list](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/1721-swapping-nodes-in-a-linked-list) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
@@ -1465,6 +1466,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0232-implement-queue-using-stacks](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/0232-implement-queue-using-stacks) |
 | [0676-implement-magic-dictionary](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/0676-implement-magic-dictionary) |
 | [0706-design-hashmap](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/0706-design-hashmap) |
+| [0707-design-linked-list](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/0707-design-linked-list) |
 | [0715-range-module](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/0715-range-module) |
 | [0933-number-of-recent-calls](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/0933-number-of-recent-calls) |
 | [2336-smallest-number-in-infinite-set](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/2336-smallest-number-in-infinite-set) |
