@@ -141,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1207-unique-number-of-occurrences](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/1207-unique-number-of-occurrences) |
 | [1217-minimum-cost-to-move-chips-to-the-same-position](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/1217-minimum-cost-to-move-chips-to-the-same-position) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/1248-count-number-of-nice-subarrays) |
+| [1254-number-of-closed-islands](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/1254-number-of-closed-islands) |
 | [1260-shift-2d-grid](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/1260-shift-2d-grid) |
 | [1266-minimum-time-visiting-all-points](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/1266-minimum-time-visiting-all-points) |
 | [1268-search-suggestions-system](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/1268-search-suggestions-system) |
@@ -1057,6 +1058,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0835-image-overlap](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/0835-image-overlap) |
 | [0867-transpose-matrix](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/0867-transpose-matrix) |
 | [1030-matrix-cells-in-distance-order](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/1030-matrix-cells-in-distance-order) |
+| [1254-number-of-closed-islands](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/1254-number-of-closed-islands) |
 | [1260-shift-2d-grid](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/1260-shift-2d-grid) |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/1582-special-positions-in-a-binary-matrix) |
@@ -1300,6 +1302,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0733-flood-fill](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/0733-flood-fill) |
 | [0785-is-graph-bipartite](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/0785-is-graph-bipartite) |
 | [0841-keys-and-rooms](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/0841-keys-and-rooms) |
+| [1254-number-of-closed-islands](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/1254-number-of-closed-islands) |
 | [1376-time-needed-to-inform-all-employees](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/1376-time-needed-to-inform-all-employees) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/1448-count-good-nodes-in-binary-tree) |
 | [1926-nearest-exit-from-entrance-in-maze](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/1926-nearest-exit-from-entrance-in-maze) |
@@ -1546,6 +1549,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0785-is-graph-bipartite](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/0785-is-graph-bipartite) |
 | [0841-keys-and-rooms](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/0841-keys-and-rooms) |
 | [0872-leaf-similar-trees](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/0872-leaf-similar-trees) |
+| [1254-number-of-closed-islands](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/1254-number-of-closed-islands) |
 | [1372-longest-zigzag-path-in-a-binary-tree](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/1372-longest-zigzag-path-in-a-binary-tree) |
 | [1376-time-needed-to-inform-all-employees](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/1376-time-needed-to-inform-all-employees) |
 | [1382-balance-a-binary-search-tree](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/1382-balance-a-binary-search-tree) |
@@ -1718,6 +1722,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/0200-number-of-islands) |
 | [0695-max-area-of-island](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/0695-max-area-of-island) |
 | [0785-is-graph-bipartite](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/0785-is-graph-bipartite) |
+| [1254-number-of-closed-islands](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/1254-number-of-closed-islands) |
 | [1971-find-if-path-exists-in-graph](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/1971-find-if-path-exists-in-graph) |
 ## Database
 |  |
