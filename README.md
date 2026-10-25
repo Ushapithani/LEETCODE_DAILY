@@ -1324,6 +1324,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0148-sort-list](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/0148-sort-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/0160-intersection-of-two-linked-lists) |
 | [0328-odd-even-linked-list](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/0328-odd-even-linked-list) |
+| [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
 | [0706-design-hashmap](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/0706-design-hashmap) |
 | [0707-design-linked-list](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/0707-design-linked-list) |
 | [1669-merge-in-between-linked-lists](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/1669-merge-in-between-linked-lists) |
@@ -1540,6 +1541,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0386-lexicographical-numbers](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/0386-lexicographical-numbers) |
 | [0404-sum-of-left-leaves](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/0404-sum-of-left-leaves) |
+| [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
 | [0437-path-sum-iii](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/0437-path-sum-iii) |
 | [0463-island-perimeter](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/0463-island-perimeter) |
 | [0501-find-mode-in-binary-search-tree](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/0501-find-mode-in-binary-search-tree) |
@@ -1907,4 +1909,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0287-find-the-duplicate-number](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/0287-find-the-duplicate-number) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
 <!---LeetCode Topics End-->
