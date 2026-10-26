@@ -303,6 +303,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3488-closest-equal-element-queries](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/3488-closest-equal-element-queries) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 | [3627-maximum-median-sum-of-subsequences-of-size-3](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/3627-maximum-median-sum-of-subsequences-of-size-3) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3634-minimum-removals-to-balance-array](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/3634-minimum-removals-to-balance-array) |
@@ -1074,6 +1075,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2435-paths-in-matrix-whose-sum-is-divisible-by-k](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/2435-paths-in-matrix-whose-sum-is-divisible-by-k) |
 | [2965-find-missing-and-repeated-values](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/2965-find-missing-and-repeated-values) |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 | [3643-flip-square-submatrix-vertically](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/3643-flip-square-submatrix-vertically) |
 ## Dynamic Programming
 |  |
@@ -1308,6 +1310,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1926-nearest-exit-from-entrance-in-maze](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/1926-nearest-exit-from-entrance-in-maze) |
 | [1971-find-if-path-exists-in-graph](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/1971-find-if-path-exists-in-graph) |
 | [3015-count-the-number-of-houses-at-a-certain-distance-i](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/3015-count-the-number-of-houses-at-a-certain-distance-i) |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Linked List
 |  |
 | ------- |
@@ -1559,6 +1562,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1382-balance-a-binary-search-tree](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/1382-balance-a-binary-search-tree) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/1448-count-good-nodes-in-binary-tree) |
 | [1971-find-if-path-exists-in-graph](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/1971-find-if-path-exists-in-graph) |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -1728,6 +1732,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0785-is-graph-bipartite](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/0785-is-graph-bipartite) |
 | [1254-number-of-closed-islands](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/1254-number-of-closed-islands) |
 | [1971-find-if-path-exists-in-graph](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/1971-find-if-path-exists-in-graph) |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/Ushapithani/LEETCODE_DAILY/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Database
 |  |
 | ------- |
