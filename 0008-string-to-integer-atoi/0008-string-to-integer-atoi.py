@@ -16,4 +16,3 @@ class Solution:
         
         num = sign * helper(s, 0)
         return max(-2**31, min(2**31 - 1, num))
-
